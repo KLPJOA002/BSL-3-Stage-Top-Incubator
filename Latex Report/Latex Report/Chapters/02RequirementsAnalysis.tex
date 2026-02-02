@@ -1,0 +1,105 @@
+% ----------------------------------------------------
+% Requirements Analysis
+% ----------------------------------------------------
+\documentclass[class=report,11pt,crop=false]{standalone}
+\input{../Style/ChapterStyle.tex}
+\begin{document}
+% ----------------------------------------------------
+\chapter{Requirements Analysis} \label{ch:reqAnalysis}
+\vspace{-1cm}
+% ----------------------------------------------------
+% =====================================================
+\section{Traceability Analysis}
+Show how the requirements, specifications and testing procedures all link, \autoref{tab:matrix} is provided.
+
+\begin{table}[h]
+    \centering
+    \caption{Requirements Traceability Matrix}
+    \label{tab:matrix}
+    \begin{tabular}{|c|c|c|c|}
+        \hline
+        \# & Requirements & Specifications  & Acceptance Test\\
+        \hline
+         1 & UR01 &  SP01 & AT01 \\
+         \hline
+         2 & FR01 & SP02,SP05 & AT03 \\
+         \hline
+         & &  & \\
+         \hline
+    \end{tabular}
+\end{table}
+
+\subsection{Traceability Analysis 1}
+% Explain your thinking around how everything links.
+
+\subsection{Traceability Analysis 2}
+% Explain your thinking around how everything links.
+
+% =====================================================
+\section{Requirements}
+The requirements for a micromouse power module are described in \autoref{tab:requirements}.
+\begin{table}[h]
+    \centering
+    \caption{User and functional requirements of the power subsystem.}    \label{tab:requirements}
+    \begin{tabular}{|c|l|}
+        \hline
+        \textbf{ Requirement ID} & \textbf{Description} \\
+        \hline
+         UR01 & \\
+         \hline
+         FR01 & \\
+         \hline
+         &  \\
+         \hline
+         &  \\
+         \hline
+    \end{tabular}
+\end{table}
+
+% =====================================================
+\section{Specifications}
+The specifications, refined from the requirements in \autoref{tab:requirements}, for the micromouse power module are described in \autoref{tab:specifications}.
+\begin{table}[h]
+    \centering
+    \caption{Specifications of the sensing subsystem derived from the requirements in \autoref{tab:requirements}.}    \label{tab:specifications}
+    \begin{tabular}{|c|l|}
+        \hline
+        \textbf{Specification ID} & \textbf{Description} \\
+        \hline
+         SP01 & User \\
+         \hline
+         &  \\
+         \hline
+         &  \\
+         \hline
+    \end{tabular}
+\end{table}
+
+% =====================================================
+\section{Acceptance Testing Procedures}
+% The table given below is an example of how you can present your ATPs. You are welcome to change or adapt it to your need. The example given is not a valid ATP description.
+
+\begin{table}[h]
+  \begin{center}
+    \caption{Subsystem acceptance tests}
+    \label{tab:tests}
+    \begin{tabular}{| >{\centering\arraybackslash}m{1cm} | m{4cm}| m{5cm}| m{5cm}|}
+      \hline
+      \textbf{ID} & \textbf{Description} & \textbf{Testing Procedure}& \textbf{Pass/Fail Criteria} \\   
+      \hline
+      AT01 & Powers on & \tabitem \newline\indent\tabitem & \\
+      \hline
+       &  &\tabitem \newline\indent\tabitem  & \\
+      \hline 
+    \end{tabular}
+  \end{center}
+\end{table}
+
+
+
+% ----------------------------------------------------
+\ifstandalone
+\bibliography{../Bibliography/References.bib}
+\fi
+\end{document}
+% ----------------------------------------------------

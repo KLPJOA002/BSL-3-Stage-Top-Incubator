@@ -1,0 +1,64 @@
+% ----------------------------------------------------
+% Research
+% ----------------------------------------------------
+\documentclass[class=report,11pt,crop=false]{standalone}
+\input{../Style/ChapterStyle.tex}
+\begin{document}
+	% ----------------------------------------------------
+	\chapter{Research} \label{ch:Research}
+	\vspace{-1cm}
+	% ----------------------------------------------------
+	The conceptual design began with assessing existing commercial products to identify the key environmental control specifications required for the incubator to function correctly. Additionally, this was useful in identifying why the commercial products are incompatible with a BSL-3 lab when used without a separate external biological containment mechanism.
+	\section{Zeis/Pecon}
+	The Zeis/Pecon stage top incubator utilities four modules to control the environmental conditions within the incubator stage. 
+	
+	The Pecon Temperature Module S regulates the temperature of the incubator. It has 4 electrical connections to the Incubator lid, base, microscope objective and humidifier device. Additionally, it directly connects to the Gas regulating units to provide temperature control of the gas flow mixture itself.
+	
+	The Pecon CO2 Module S attaches to the temperature module, and provides CO2 concentration control to the airflow passed into the incubation chamber. It requires a pressurised CO2 supply in order to regulate CO2 concentration.
+	
+	The Pecon O2 Module S attaches to the CO2 module and provides O2 concentration control to the airflow passed into the incubation chamber. It requires a pressurised N2 supply in order to displace the O2 in the airflow.
+	
+	The Pecon Heating Device Humidity S connects in series with the airflow tube to the incubator stage. This module works by bubbling the airflow through heated sterile water in order to raise the relative humidity (RH) to approximately 100\%.
+	
+	The incubator stage includes a heated glass topped lid and a heated insert which accepts mounts for the different dishes used in microscopy. The heated insert supports perfusion experiments utilising two ports which allow tubes to be run to the culture.
+	
+	The main reason why the Zeis/Pecon stage top incubator system is not suitable for long term imaging without an external containment enclosure is due to the method of gas flow through the incubator. The design of the Incubator stage is such that the inflowing gas mixture flows over the culture media and then exhausts passively through the opening on the bottom and through the sides. This means that the cell culture is not completely sealed inside the incubator which can result in contamination. 
+	
+	\section{Ibidi}
+	The Ibidi stage top incubator functions similarly to the Zeis/Pecon module, however it makes use of only 3 modules to maintain environmental conditions.
+	
+	The Heating System Silver Line module regulates the temperature of the incubation chamber stage and the microscope. The heating of the gas mixture is subjected to the gas regulator module. 
+	
+	The Gas Incubation System comes in two different models, the CO2 - Silver Line and the CO2/O2 - Silver Line. The difference between these two systems is the former is only capable of regulating CO2 concentration, where as the later has the ability to regulate O2 concentration as well as CO2 concentration. The gas incubation system is responsible for heating the gas mixture and the humidifying column to the appropriate temperature.
+	
+	The Humidifying system works by mixing airflow directly from the Mixing module and from the humidifying column, which bubbles a separate airflow through heated water to obtain approximately 100\% RH air. The gas mixer module then controls the mix ratio of dry gas to 100\% RH gas to obtain a controlled humidity flowing into the incubation chamber. 
+	
+	The Ibidi incubation chamber comes in two versions, one version supports culture mediums with Petri dishes and slides, the second version supports multi-well plates. The Petri dish/Slide version of the chamber supports perfusion experiments using two ports which allow tubes to be run to the culture. Both versions support direct medium temperature monitoring which allow for more accurate temperature control by directly measuring the temperature of the culture medium.
+	
+	The Ibidi system functions in a very similar fashion to the Pecon system, with the addition of being able to control the relative humidity in the chamber, rather than a forced approximate 100\% relative humidity. This system still poses the same problem wherein the airflow is designed to passively exhaust from the incubation chamber, as shown in \autoref{fig:ibidigasflowdiagram}, and therefore does not have a seal that meets BSL-3 containment standards. 
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.7\linewidth]{Figures/Ibidi_Gasflow_Diagram}
+		\caption[Ibidi Chamber Gas Flow Diagram]{Diagram Showing the Airflow Path Within an Ibidi Multi-Well Incubator Chamber}
+		\label{fig:ibidigasflowdiagram}
+	\end{figure}
+	
+	\section{Tokai-Hit}
+	The Tokai-Hit system functions similarly to the Pecon and Ibidi systems however it utilises a single module to regulate the environmental conditions for temperature and CO2. Humidity is controlled by a heated water bath inside the chamber, and O2 control is achieved by utilising an optional module which then overrides all gas control.
+	
+	The Tokai-Hit STXG/STXF temperature and CO2 controller regulates both temperature and CO2 concentration in the incubation chamber. The controller is capable of regulating the temperature of the top-lid heater, water bath heater, stage heater and the microscope objective heater. Additionally it is capable of regulating the airflow into the chamber depending on the model and air supply.
+	
+	The incubator chamber uses a single design that is compatible with all major culture dishes including Petri dishes, slides and multi-well plates. This chamber supports perfusion experiments, drug administration and direct culture temperature measurement via access ports designed into the lid.
+	
+	This system still poses the same issue as the aforementioned chambers, which prevents this chamber from forming a completely sealed environment suitable for a BSL-3 lab. 
+
+	\section{Oko-Lab}
+	I should probably explore this option i just have not fully looked at method.
+	
+	% ----------------------------------------------------
+	\ifstandalone
+	\bibliography{../Bibliography/References.bib}
+	\fi
+\end{document}
+% ----------------------------------------------------
