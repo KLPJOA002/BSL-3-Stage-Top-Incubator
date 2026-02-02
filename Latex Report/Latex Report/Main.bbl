@@ -21,6 +21,21 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{pecon_peconzeis_nodate}
+{Pecon}, ``Pecon/{Zeis} {TempModule} {S} {Manual}.''
+
+\bibitem{pecon_peconzeis_nodate-2}
+------, ``Pecon/{Zeis} {CO2} {Module} {S} {Manual}.''
+
+\bibitem{pecon_peconzeis_nodate-1}
+------, ``Pecon/{Zeis} {O2} {Module} {S} {Manual}.''
+
+\bibitem{pecon_peconzeis_nodate-3}
+------, ``Pecon/{Zeis} {Heating} {Device} {Humidity} {S1} {Manual}.''
+
+\bibitem{pecon_incubator_nodate}
+------, ``Incubator {P} {S1} compact {Manual}.''
+
 \bibitem{ibidi_ibidi_nodate}
 \BIBentryALTinterwordspacing
 {ibidi}, ``ibidi {Heating} {System} {Multiwell} {Plate} - {Silver} {Line}

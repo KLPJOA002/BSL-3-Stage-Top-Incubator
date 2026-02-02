@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.27)  2 FEB 2026 12:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.27)  2 FEB 2026 16:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1269,18 +1269,17 @@ Chapter 2.
 [2
 
 ]
-<Figures/Ibidi_Gasflow_Diagram.jpg, id=150, 1070.49937pt x 418.56375pt>
+<Figures/Ibidi_Gasflow_Diagram.jpg, id=158, 1070.49937pt x 418.56375pt>
 File: Figures/Ibidi_Gasflow_Diagram.jpg Graphic file (type jpg)
 <use Figures/Ibidi_Gasflow_Diagram.jpg>
 Package pdftex.def Info: Figures/Ibidi_Gasflow_Diagram.jpg  used on input line 
-42.
+44.
 (pdftex.def)             Requested size: 338.58632pt x 132.38475pt.
 
 
-[3 <./Figures/Ibidi_Gasflow_Diagram.jpg>]) (Chapters/02RequirementsAnalysis.tex
+[3]) (Chapters/02FeasibilityAnalysis.tex
 
-
-[4]
+[4 <./Figures/Ibidi_Gasflow_Diagram.jpg>]
 Chapter 3.
 
 
@@ -1290,7 +1289,7 @@ Chapter 3.
 
 [6]
 Chapter 4.
-<Figures/signature.jpg, id=184, 361.35pt x 361.35pt>
+<Figures/signature.jpg, id=194, 361.35pt x 361.35pt>
 File: Figures/signature.jpg Graphic file (type jpg)
 <use Figures/signature.jpg>
 Package pdftex.def Info: Figures/signature.jpg  used on input line 26.
@@ -1338,14 +1337,14 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
  ***********
 Package rerunfilecheck Info: File `Main.out' has not changed.
-(rerunfilecheck)             Checksum: E30E4A6D022EF4EA6487248DAA6EE3D8;3273.
+(rerunfilecheck)             Checksum: E3FEF2BFA6AE947D1A75E94A8592D80B;3268.
  ) 
 Here is how much of TeX's memory you used:
- 36130 strings out of 468080
- 728070 string characters out of 5425771
- 1374253 words of memory out of 5000000
- 64139 multiletter control sequences out of 15000+600000
- 678641 words of font info for 124 fonts, out of 8000000 for 9000
+ 36144 strings out of 468080
+ 728378 string characters out of 5425771
+ 1374478 words of memory out of 5000000
+ 64144 multiletter control sequences out of 15000+600000
+ 678807 words of font info for 126 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  95i,12n,93p,2577b,1290s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pf
@@ -1353,9 +1352,9 @@ b><C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
 b><C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
 ><C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
 <C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb>
-Output written on Main.pdf (13 pages, 398257 bytes).
+Output written on Main.pdf (13 pages, 401523 bytes).
 PDF statistics:
- 253 PDF objects out of 1000 (max. 8388607)
- 50 named destinations out of 1000 (max. 500000)
+ 264 PDF objects out of 1000 (max. 8388607)
+ 55 named destinations out of 1000 (max. 500000)
  30928 words of extra memory for PDF output out of 35830 (max. 10000000)
 
