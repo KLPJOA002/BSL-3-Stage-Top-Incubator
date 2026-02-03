@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.27)  3 FEB 2026 11:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.27)  3 FEB 2026 17:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1274,45 +1274,55 @@ Chapter 2.
 ]
 
 [3]
-<Figures/Ibidi_Gasflow_Diagram.jpg, id=171, 1070.49937pt x 418.56375pt>
+<Figures/Ibidi_Humidity_Control_Diagram.jpg, id=175, 633.86812pt x 282.30469pt>
+
+File: Figures/Ibidi_Humidity_Control_Diagram.jpg Graphic file (type jpg)
+<use Figures/Ibidi_Humidity_Control_Diagram.jpg>
+Package pdftex.def Info: Figures/Ibidi_Humidity_Control_Diagram.jpg  used on in
+put line 43.
+(pdftex.def)             Requested size: 338.58632pt x 150.79674pt.
+
+
+[4 <./Figures/Ibidi_Humidity_Control_Diagram.jpg>]
+
+[5]
+<Figures/Ibidi_Gasflow_Diagram.jpg, id=199, 1070.49937pt x 418.56375pt>
 File: Figures/Ibidi_Gasflow_Diagram.jpg Graphic file (type jpg)
 <use Figures/Ibidi_Gasflow_Diagram.jpg>
 Package pdftex.def Info: Figures/Ibidi_Gasflow_Diagram.jpg  used on input line 
-44.
+79.
 (pdftex.def)             Requested size: 338.58632pt x 132.38475pt.
+) (Chapters/02FeasibilityAnalysis.tex
 
-
-[4 <./Figures/Ibidi_Gasflow_Diagram.jpg>]) (Chapters/02FeasibilityAnalysis.tex
-
-[5]
+[6 <./Figures/Ibidi_Gasflow_Diagram.jpg>]
 Chapter 3.
 Excluding 'comment' comment. Excluding 'comment' comment.
 Excluding 'comment' comment. Excluding 'comment' comment.)
 (Chapters/03Design.tex
 
-[6
+[7
 
 ]
 Chapter 4.
 ) (Chapters/04Results.tex
 
-[7
+[8
 
 ]
 Chapter 5.
 ) (Chapters/05Conclusion.tex
 
-[8
+[9
 
 ]
 Chapter 6.
 )
 
-[9
+[10
 
 ] (Main.bbl)
 
-[10
+[11
 
 ] (Main.aux)
  ***********
@@ -1320,24 +1330,24 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
  ***********
 Package rerunfilecheck Info: File `Main.out' has not changed.
-(rerunfilecheck)             Checksum: 668E899E82E898957B7E5BBBF632A011;3005.
+(rerunfilecheck)             Checksum: FD29D2DA5679102A9EB4CA847D6CE32F;3005.
  ) 
 Here is how much of TeX's memory you used:
- 36139 strings out of 468080
- 728466 string characters out of 5425771
- 1372744 words of memory out of 5000000
- 64148 multiletter control sequences out of 15000+600000
- 675568 words of font info for 122 fonts, out of 8000000 for 9000
+ 36189 strings out of 468080
+ 729664 string characters out of 5425771
+ 1373051 words of memory out of 5000000
+ 64166 multiletter control sequences out of 15000+600000
+ 676647 words of font info for 135 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 95i,11n,93p,2577b,1272s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 95i,12n,93p,2577b,1272s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pf
 b><C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
 b><C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
 ><C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
 <C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb>
-Output written on Main.pdf (12 pages, 387015 bytes).
+Output written on Main.pdf (13 pages, 443325 bytes).
 PDF statistics:
- 251 PDF objects out of 1000 (max. 8388607)
- 48 named destinations out of 1000 (max. 500000)
- 28883 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 278 PDF objects out of 1000 (max. 8388607)
+ 54 named destinations out of 1000 (max. 500000)
+ 28888 words of extra memory for PDF output out of 29859 (max. 10000000)
 
