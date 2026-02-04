@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.27)  3 FEB 2026 17:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.27)  4 FEB 2026 11:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1183,7 +1183,7 @@ Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 (FrontMatter/Title.tex
-<FrontMatter/UCT_logo.png, id=103, 1554.80875pt x 1578.89874pt>
+<FrontMatter/UCT_logo.png, id=115, 1554.80875pt x 1578.89874pt>
 File: FrontMatter/UCT_logo.png Graphic file (type png)
 <use FrontMatter/UCT_logo.png>
 Package pdftex.def Info: FrontMatter/UCT_logo.png  used on input line 17.
@@ -1274,7 +1274,7 @@ Chapter 2.
 ]
 
 [3]
-<Figures/Ibidi_Humidity_Control_Diagram.jpg, id=175, 633.86812pt x 282.30469pt>
+<Figures/Ibidi_Humidity_Control_Diagram.jpg, id=190, 633.86812pt x 282.30469pt>
 
 File: Figures/Ibidi_Humidity_Control_Diagram.jpg Graphic file (type jpg)
 <use Figures/Ibidi_Humidity_Control_Diagram.jpg>
@@ -1286,11 +1286,16 @@ put line 43.
 [4 <./Figures/Ibidi_Humidity_Control_Diagram.jpg>]
 
 [5]
-<Figures/Ibidi_Gasflow_Diagram.jpg, id=199, 1070.49937pt x 418.56375pt>
+Overfull \hbox (19.26707pt too wide) in paragraph at lines 82--83
+[]\T1/lmr/m/n/10.95 (-20) Quaternary Am-mo-nium Com-pounds, which pro-vides cos
+t ef-fec-tive but low ef-fec-tive-ness disinfection[[]],
+ []
+
+<Figures/Ibidi_Gasflow_Diagram.jpg, id=224, 1070.49937pt x 418.56375pt>
 File: Figures/Ibidi_Gasflow_Diagram.jpg Graphic file (type jpg)
 <use Figures/Ibidi_Gasflow_Diagram.jpg>
 Package pdftex.def Info: Figures/Ibidi_Gasflow_Diagram.jpg  used on input line 
-79.
+93.
 (pdftex.def)             Requested size: 338.58632pt x 132.38475pt.
 ) (Chapters/02FeasibilityAnalysis.tex
 
@@ -1320,34 +1325,36 @@ Chapter 6.
 
 [10
 
-] (Main.bbl)
+] (Main.bbl
 
 [11
 
-] (Main.aux)
+])
+
+[12] (Main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
  ***********
 Package rerunfilecheck Info: File `Main.out' has not changed.
-(rerunfilecheck)             Checksum: FD29D2DA5679102A9EB4CA847D6CE32F;3005.
+(rerunfilecheck)             Checksum: DB9C9AC98D7A203833E1DAE70F09C9D6;3470.
  ) 
 Here is how much of TeX's memory you used:
- 36189 strings out of 468080
- 729664 string characters out of 5425771
- 1373051 words of memory out of 5000000
- 64166 multiletter control sequences out of 15000+600000
+ 36204 strings out of 468080
+ 730035 string characters out of 5425771
+ 1378264 words of memory out of 5000000
+ 64173 multiletter control sequences out of 15000+600000
  676647 words of font info for 135 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 95i,12n,93p,2577b,1272s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 95i,12n,93p,2577b,1336s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pf
 b><C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
 b><C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
 ><C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
 <C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb>
-Output written on Main.pdf (13 pages, 443325 bytes).
+Output written on Main.pdf (14 pages, 453423 bytes).
 PDF statistics:
- 278 PDF objects out of 1000 (max. 8388607)
- 54 named destinations out of 1000 (max. 500000)
- 28888 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 318 PDF objects out of 1000 (max. 8388607)
+ 62 named destinations out of 1000 (max. 500000)
+ 28912 words of extra memory for PDF output out of 29859 (max. 10000000)
 

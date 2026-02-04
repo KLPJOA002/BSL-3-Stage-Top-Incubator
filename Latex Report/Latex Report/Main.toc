@@ -8,6 +8,9 @@
 \contentsline {section}{\numberline {2.3}Tokai-Hit}{4}{section.2.3}%
 \contentsline {section}{\numberline {2.4}Oko-Lab}{5}{section.2.4}%
 \contentsline {section}{\numberline {2.5}Shortfalls}{5}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Containment}{5}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Disinfection and sterilization}{6}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Key Takeaways}{6}{subsection.2.5.3}%
 \contentsline {chapter}{\numberline {3}Feasibility Analysis}{7}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Commercial Assessment}{7}{section.3.1}%
 \contentsline {subsection}{\numberline {3.1.1}Pecon/Zeis}{7}{subsection.3.1.1}%

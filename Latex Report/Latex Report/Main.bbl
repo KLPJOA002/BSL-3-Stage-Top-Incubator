@@ -21,63 +21,98 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{pecon_peconzeis_nodate}
-{Pecon}, ``Pecon/{Zeis} {TempModule} {S} {Manual}.''
+\bibitem{peconPeconZeisTempModule}
+{Pecon}, ``Pecon/{{Zeis TempModule S Manual}},'' Pecon.
 
-\bibitem{pecon_peconzeis_nodate-2}
-------, ``Pecon/{Zeis} {CO2} {Module} {S} {Manual}.''
+\bibitem{peconPeconZeisCO2}
+------, ``Pecon/{{Zeis CO2 Module S Manual}},'' Pecon.
 
-\bibitem{pecon_peconzeis_nodate-1}
-------, ``Pecon/{Zeis} {O2} {Module} {S} {Manual}.''
+\bibitem{peconPeconZeisO2}
+------, ``Pecon/{{Zeis O2 Module S Manual}},'' Pecon.
 
-\bibitem{pecon_peconzeis_nodate-3}
-------, ``Pecon/{Zeis} {Heating} {Device} {Humidity} {S1} {Manual}.''
+\bibitem{peconPeconZeisHeating}
+------, ``Pecon/{{Zeis Heating Device Humidity S1 Manual}},'' Pecon.
 
-\bibitem{pecon_incubator_nodate}
-------, ``Incubator {P} {S1} compact {Manual}.''
+\bibitem{peconIncubatorS1Compact}
+------, ``Incubator {{P S1}} compact {{Manual}},'' Pecon.
 
-\bibitem{ibidi_ibidi_nodate}
+\bibitem{ibidiIbidiHeatingSystem}
 \BIBentryALTinterwordspacing
-{ibidi}, ``ibidi {Heating} {System} {Multiwell} {Plate} - {Silver} {Line}
-  {Manual}.'' [Online]. Available:
+{ibidi}, ``Ibidi {{Heating System Multiwell Plate}} - {{Silver Line Manual}},''
+  ibidi. [Online]. Available:
   \url{https://ibidi.com/img/cms/downloads/in/IN_12150_HeatingSystem_Multiwell_SL.pdf}
 \BIBentrySTDinterwordspacing
 
-\bibitem{ibidi_ibidi_nodate-1}
+\bibitem{ibidiIbidiGasIncubation}
 \BIBentryALTinterwordspacing
-------, ``ibidi {Gas} {Incubation} {System} - {Silver} {Line} {Manual}.''
+------, ``Ibidi {{Gas Incubation System}} - {{Silver Line Manual}},'' ibidi.
   [Online]. Available:
   \url{https://ibidi.com/img/cms/downloads/in/IN_1192X_GasIncubation_SL.pdf}
 \BIBentrySTDinterwordspacing
 
-\bibitem{tokai_hit_stx_nodate}
+\bibitem{tokaihitSTXSeriesInstruction}
 \BIBentryALTinterwordspacing
-{Tokai Hit}, ``{STX} series {Instruction} {Manual}.'' [Online]. Available:
+{Tokai Hit}, ``{{STX}} series {{Instruction Manual}},'' Tokai Hit. [Online].
+  Available:
   \url{https://microscopynotes.com/spindisk/tokaihit/MA-STX-EN-03-L.pdf}
 \BIBentrySTDinterwordspacing
 
-\bibitem{oko-lab_h301-t-unit-bl-plus_manual_nodate}
+\bibitem{oko-labH301TUNITBLPLUS_Manual}
 \BIBentryALTinterwordspacing
-{Oko-Lab}, ``H301-{T}-{UNIT}-{BL}-{PLUS}\_manual.'' [Online]. Available:
+{Oko-Lab}, ``H301-{{T-UNIT-BL-PLUS}}\_{{Manual}},'' Oko-Lab. [Online].
+  Available:
   \url{https://www.oko-lab.com/images/okaImages/PDF-files/H301-T-UNIT-BL-PLUS_Manual.pdf}
 \BIBentrySTDinterwordspacing
 
-\bibitem{oko-lab_co2-o2-unit-bl_nodate}
+\bibitem{oko-labCO2O2UNITBL020_195_Manual}
 \BIBentryALTinterwordspacing
-------, ``{CO2}-{O2}-{UNIT}-{BL} [0-20\_ 1-95]\_manual.'' [Online]. Available:
+------, ``{{CO2-O2-UNIT-BL}} [0-20\_ 1-95]\_{{Manual}},'' Oko-Lab. [Online].
+  Available:
   \url{https://www.oko-lab.com/images/okaImages/PDF-files/CO2-O2-UNIT-BL%20[0-20_%201-95]_Manual.pdf}
 \BIBentrySTDinterwordspacing
 
-\bibitem{oko-lab_hm-active_manual_nodate}
+\bibitem{oko-labHMACTIVE_Manual}
 \BIBentryALTinterwordspacing
-------, ``{HM}-{ACTIVE}\_manual.'' [Online]. Available:
+------, ``{{HM-ACTIVE}}\_{{Manual}},'' Oko-Lab. [Online]. Available:
   \url{https://www.oko-lab.com/images/okaImages/PDF-files/HM-ACTIVE_Manual.pdf}
 \BIBentrySTDinterwordspacing
 
-\bibitem{oko-lab_h301-k-frame_user_manual_nodate}
+\bibitem{oko-labH301KFRAME_User_Manual}
 \BIBentryALTinterwordspacing
-------, ``H301-{K}-{FRAME}\_user\_manual.'' [Online]. Available:
+------, ``H301-{{K-FRAME}}\_{{User}}\_{{Manual}},'' Oko-Lab. [Online].
+  Available:
   \url{https://www.oko-lab.com/images/okaImages/PDF-files/H301-K-FRAME_User_Manual.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{BiologicalSafetyManual2021}
+\BIBentryALTinterwordspacing
+Biological {{Safety Manual}} - {{Chapter}} 10: {{Decontamination}} and
+  {{Disinfection}}. University of North Carolina at Chapel Hill - Knowledge
+  Base. [Online]. Available:
+  \url{https://policies.unc.edu/TDClient/2833/Portal/KB/ArticleDet?ID=131894}
+\BIBentrySTDinterwordspacing
+
+\bibitem{BiosafetyManualAppendixIDisinfectantsforBiohazardousMaterialsSOP}
+\BIBentryALTinterwordspacing
+``Biosafety-{{Manual-Appendix-I-Disinfectants-for-Biohazardous-Materials-SOP}},''
+  The University Of Rhode Island. [Online]. Available:
+  \url{https://web.uri.edu/wp-content/uploads/sites/922/Biosafety-Manual-Appendix-I-Disinfectants-for-Biohazardous-Materials-SOP.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{barryBSL3LabDecontamination2025}
+\BIBentryALTinterwordspacing
+Barry. {{BSL-3 Lab Decontamination}}: {{Effective Procedures}}. BioSafe Tech by
+  QUALIA. [Online]. Available:
+  \url{https://qualia-bio.com/blog/bsl-3-lab-decontamination-effective-procedures/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{grareEfficacyDryMist2008}
+\BIBentryALTinterwordspacing
+M.~Grare, M.~Dailloux, L.~Simon, P.~Dimajo, and C.~Laurain, ``Efficacy of {{Dry
+  Mist}} of {{Hydrogen Peroxide}} ({{DMHP}}) against {{Mycobacterium}}
+  tuberculosis and use of {{DMHP}} for {{Routine Decontamination}} of
+  {{Biosafety Level}} 3 {{Laboratories}},'' vol.~46, no.~9, pp. 2955--2958.
+  [Online]. Available: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC2546749/}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}
