@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.27)  4 FEB 2026 11:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.27)  4 FEB 2026 17:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -977,6 +977,30 @@ Package tocbibind Note: Using chapter style headings, unless overridden.
 \CommentStream=\write3
 
 Excluding comment 'comment')
+(C:\Users\joabk\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count418
+\float@exts=\toks53
+\float@box=\box84
+\@float@everytoks=\toks54
+\@floatcapt=\box85
+)
+(C:\Users\joabk\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen291
+\TX@old@table=\dimen292
+\TX@old@col=\dimen293
+\TX@target=\dimen294
+\TX@delta=\dimen295
+\TX@cols=\count419
+\TX@ftn=\toks55
+)
+(C:\Users\joabk\AppData\Local\Programs\MiKTeX\tex/latex/gensymb\gensymb.sty
+Package: gensymb 2022/10/17 v1.0.2 (KJH)
+)
+(C:\Users\joabk\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
 (C:\Users\joabk\AppData\Local\Programs\MiKTeX\tex/latex/standalone\standalone.s
 ty
 Package: standalone 2025/02/22 v1.5a Package to include TeX sub-files with prea
@@ -996,7 +1020,7 @@ Package: filehook 2022/10/25 v0.8b Hooks for input files
 sty
 Package: filehook-2020 2022/10/25 v0.8b Hooks for input files
 ))
-\c@currfiledepth=\count418
+\c@currfiledepth=\count420
 )
 (C:\Users\joabk\AppData\Local\Programs\MiKTeX\tex/latex/gincltex\gincltex.sty
 (C:\Users\joabk\AppData\Local\Programs\MiKTeX\tex/latex/svn-prov\svn-prov.sty
@@ -1016,36 +1040,36 @@ Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
 (C:\Users\joabk\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
 ty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
-\collectedbox=\box84
+\collectedbox=\box86
 )
-\tc@llx=\dimen291
-\tc@lly=\dimen292
-\tc@urx=\dimen293
-\tc@ury=\dimen294
+\tc@llx=\dimen296
+\tc@lly=\dimen297
+\tc@urx=\dimen298
+\tc@ury=\dimen299
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 
 (C:\Users\joabk\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
 File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen295
-\adjbox@Height=\dimen296
-\adjbox@Depth=\dimen297
-\adjbox@Totalheight=\dimen298
-\adjbox@pwidth=\dimen299
-\adjbox@pheight=\dimen300
-\adjbox@pdepth=\dimen301
-\adjbox@ptotalheight=\dimen302
+\adjbox@Width=\dimen300
+\adjbox@Height=\dimen301
+\adjbox@Depth=\dimen302
+\adjbox@Totalheight=\dimen303
+\adjbox@pwidth=\dimen304
+\adjbox@pheight=\dimen305
+\adjbox@pdepth=\dimen306
+\adjbox@ptotalheight=\dimen307
 
 (C:\Users\joabk\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box85
-\sift@deathcycles=\count419
-\@vwid@loff=\dimen303
-\@vwid@roff=\dimen304
+\@vwid@box=\box87
+\sift@deathcycles=\count421
+\@vwid@loff=\dimen308
+\@vwid@roff=\dimen309
 )
 ==> First Aid for varwidth.sty applied!
 )
-\gincltex@box=\box86
+\gincltex@box=\box88
 )
 (C:\Users\joabk\AppData\Local\Programs\MiKTeX\tex/latex/filemod\filemod-expmin.
 sty
@@ -1054,24 +1078,24 @@ Package: filemod-expmin 2011/09/19 v1.2 Get and compare file modification times
 )) (Main.aux)
 \openout1 = `Main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1111,17 +1135,17 @@ LaTeX Font Info:    ... okay on input line 7.
 (C:\Users\joabk\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count420
-\scratchdimen=\dimen305
-\scratchbox=\box87
-\nofMPsegments=\count421
-\nofMParguments=\count422
-\everyMPshowfont=\toks53
-\MPscratchCnt=\count423
-\MPscratchDim=\dimen306
-\MPnumerator=\count424
-\makeMPintoPDFobject=\count425
-\everyMPtoPDFconversion=\toks54
+\scratchcounter=\count422
+\scratchdimen=\dimen310
+\scratchbox=\box89
+\nofMPsegments=\count423
+\nofMParguments=\count424
+\everyMPshowfont=\toks56
+\MPscratchCnt=\count425
+\MPscratchDim=\dimen311
+\MPnumerator=\count426
+\makeMPintoPDFobject=\count427
+\everyMPtoPDFconversion=\toks57
 )
 (C:\Users\joabk\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -1133,12 +1157,12 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 7.
+Package hyperref Info: Link coloring ON on input line 11.
  (Main.out) (Main.out)
 \@outlinefile=\write4
 \openout4 = `Main.out'.
 
-Package csquotes Info: Making character " active on input line 7.
+Package csquotes Info: Making character " active on input line 11.
 
 (C:\Users\joabk\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tran
 slations-basic-dictionary-english.trsl
@@ -1146,17 +1170,17 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 7.
+or `english'. on input line 11.
 Package microtype Info: Patching varwidth to enable character protrusion.
-\MT@vwid@leftmargin=\dimen307
-\MT@vwid@rightmargin=\dimen308
-LaTeX Info: Redefining \microtypecontext on input line 7.
-Package microtype Info: Applying patch `item' on input line 7.
-Package microtype Info: Applying patch `toc' on input line 7.
-Package microtype Info: Applying patch `eqnum' on input line 7.
-Package microtype Info: Applying patch `footnote' on input line 7.
-Package microtype Info: Applying patch `verbatim' on input line 7.
-LaTeX Info: Redefining \microtypesetup on input line 7.
+\MT@vwid@leftmargin=\dimen312
+\MT@vwid@rightmargin=\dimen313
+LaTeX Info: Redefining \microtypecontext on input line 11.
+Package microtype Info: Applying patch `item' on input line 11.
+Package microtype Info: Applying patch `toc' on input line 11.
+Package microtype Info: Applying patch `eqnum' on input line 11.
+Package microtype Info: Applying patch `footnote' on input line 11.
+Package microtype Info: Applying patch `verbatim' on input line 11.
+LaTeX Info: Redefining \microtypesetup on input line 11.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1172,8 +1196,9 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-\c@lstlisting=\count426
+\c@lstlisting=\count428
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: longtable package is loaded.
 
 (C:\Users\joabk\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
@@ -1181,6 +1206,18 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
+\symgns@font=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/lmr/m/n --> TS1/lmr/b/n on input line 11.
+Package gensymb Info: Math companion symbols declared on input line 11.
+LaTeX Info: Redefining \degree on input line 11.
+LaTeX Info: Redefining \celsius on input line 11.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 11.
+LaTeX Info: Redefining \ohm on input line 11.
+Package gensymb Info: Using \textohm for \ohm on input line 11.
+LaTeX Info: Redefining \micro on input line 11.
+Package gensymb Info: Using \textmu for \micro on input line 11.
 
 (FrontMatter/Title.tex
 <FrontMatter/UCT_logo.png, id=115, 1554.80875pt x 1578.89874pt>
@@ -1246,6 +1283,12 @@ LaTeX Font Info:    Trying to load font information for U+rsfs on input line 3.
 
 (C:\Users\joabk\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 3
+.
+
+(C:\Users\joabk\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ))
 \tf@toc=\write5
 \openout5 = `Main.toc'.
@@ -1256,12 +1299,7 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 
 ] (Chapters/01Introduction.tex
 Chapter 1.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
-1.
-(C:\Users\joabk\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-))
-(Chapters/Research.tex
+) (Chapters/Research.tex
 
 [1
 
@@ -1280,81 +1318,82 @@ File: Figures/Ibidi_Humidity_Control_Diagram.jpg Graphic file (type jpg)
 <use Figures/Ibidi_Humidity_Control_Diagram.jpg>
 Package pdftex.def Info: Figures/Ibidi_Humidity_Control_Diagram.jpg  used on in
 put line 43.
-(pdftex.def)             Requested size: 338.58632pt x 150.79674pt.
+(pdftex.def)             Requested size: 241.84843pt x 107.71196pt.
 
 
 [4 <./Figures/Ibidi_Humidity_Control_Diagram.jpg>]
 
 [5]
-Overfull \hbox (19.26707pt too wide) in paragraph at lines 82--83
-[]\T1/lmr/m/n/10.95 (-20) Quaternary Am-mo-nium Com-pounds, which pro-vides cos
-t ef-fec-tive but low ef-fec-tive-ness disinfection[[]],
- []
-
 <Figures/Ibidi_Gasflow_Diagram.jpg, id=224, 1070.49937pt x 418.56375pt>
 File: Figures/Ibidi_Gasflow_Diagram.jpg Graphic file (type jpg)
 <use Figures/Ibidi_Gasflow_Diagram.jpg>
 Package pdftex.def Info: Figures/Ibidi_Gasflow_Diagram.jpg  used on input line 
-93.
-(pdftex.def)             Requested size: 338.58632pt x 132.38475pt.
+102.
+(pdftex.def)             Requested size: 290.22107pt x 113.47356pt.
 ) (Chapters/02FeasibilityAnalysis.tex
 
-[6 <./Figures/Ibidi_Gasflow_Diagram.jpg>]
+[6{C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C
+:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc} <
+./Figures/Ibidi_Gasflow_Diagram.jpg>]
 Chapter 3.
-Excluding 'comment' comment. Excluding 'comment' comment.
-Excluding 'comment' comment. Excluding 'comment' comment.)
-(Chapters/03Design.tex
+
 
 [7
 
 ]
+
+[8] Excluding 'comment' comment. Excluding 'comment' comment.
+Excluding 'comment' comment.) (Chapters/03Design.tex
+
+[9]
 Chapter 4.
 ) (Chapters/04Results.tex
 
-[8
+[10
 
 ]
 Chapter 5.
 ) (Chapters/05Conclusion.tex
 
-[9
+[11
 
 ]
 Chapter 6.
 )
 
-[10
+[12
 
 ] (Main.bbl
 
-[11
+[13
 
 ])
 
-[12] (Main.aux)
+[14] (Main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
  ***********
 Package rerunfilecheck Info: File `Main.out' has not changed.
-(rerunfilecheck)             Checksum: DB9C9AC98D7A203833E1DAE70F09C9D6;3470.
+(rerunfilecheck)             Checksum: 14DE41405360ED316E6425FD4A94A8D9;3470.
  ) 
 Here is how much of TeX's memory you used:
- 36204 strings out of 468080
- 730035 string characters out of 5425771
- 1378264 words of memory out of 5000000
- 64173 multiletter control sequences out of 15000+600000
- 676647 words of font info for 135 fonts, out of 8000000 for 9000
+ 36438 strings out of 468080
+ 734119 string characters out of 5425771
+ 1383491 words of memory out of 5000000
+ 64377 multiletter control sequences out of 15000+600000
+ 677668 words of font info for 141 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 95i,12n,93p,2577b,1336s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 95i,16n,93p,2577b,1337s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pf
 b><C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
 b><C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
 ><C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
-<C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb>
-Output written on Main.pdf (14 pages, 453423 bytes).
+<C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><
+C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
+Output written on Main.pdf (16 pages, 466954 bytes).
 PDF statistics:
- 318 PDF objects out of 1000 (max. 8388607)
- 62 named destinations out of 1000 (max. 500000)
- 28912 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 339 PDF objects out of 1000 (max. 8388607)
+ 66 named destinations out of 1000 (max. 500000)
+ 33008 words of extra memory for PDF output out of 35830 (max. 10000000)
 

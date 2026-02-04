@@ -10,32 +10,73 @@
 % ----------------------------------------------------
 % =====================================================
 \section{Commercial Assessment}
-Asses commercial solutions and provide technical specifications for the,
+The commercial solutions from Zeis/Pecon, Ibidi, Tokai-Hit and Oko-lab are assessed for their primary method of operation as well as the environmental control specifications provided by each product.
 
-\begin{comment}
+\subsection{Zeis/Pecon}
+The Incubation system provided by Zeis/Pecon utilises four modules for the control of the four major environmental conditions. A temperature unit for thermal control, a CO2 unit for CO2 concentration control, an O2 unit for O2 concentration control and a humidifying bottle for humidity control.
 
+The heating unit monitors and controls the temperature of the culture sample through heating of the incubation chamber, gas airflow and humidifying bottle.
 
-\begin{table}[h]
-    \centering
-    \caption{Requirements Traceability Matrix}
-    \label{tab:matrix}
-    \begin{tabular}{|c|c|c|c|}
-        \hline
-        \# & Requirements & Specifications  & Acceptance Test\\
-        \hline
-         1 & UR01 &  SP01 & AT01 \\
-         \hline
-         2 & FR01 & SP02,SP05 & AT03 \\
-         \hline
-         & &  & \\
-         \hline
-    \end{tabular}
+The CO2 unit monitors and controls the concentration of CO2 being pumped into the incubation chamber by controlling the release of pure CO2 gas into the internal mixing chamber.
+
+The O2 unit monitors and controls the concentration of O2 being pumped into the incubation chamber by controlling the release of Pure N2 gas into the circulating gas in order to displace the O2 present. Thus can only achieve hypoxia conditions.
+
+The humidifying unit operates by bubbling the gas mixture through heated water to achieve a close to 100\% RH ro prevent the drying of the culture media.
+
+The Zeis/Pecon incubation system as a whole has the specifications shown in \autoref{tab:Zeis/Pecon_Specs}.
+
+\begin{table}[H]
+	\centering
+	\begin{tabularx}{\textwidth}{|X|X|}
+		\hline
+		\textbf{Temperature Control Range} & Ambient - 60\degree C (Recommended max 45\degree C)                                                             \\ \hline
+		\textbf{Control Accuracy}          & \textpm0.15\%                                                                                        \\ \hline
+		\textbf{Control Resolution}        & \begin{tabular}[c]{@{}l@{}}Internal Loop: 0.01\degree C\\ User Parameter: 0.1\degree C\end{tabular}             \\ \hline
+		\textbf{CO2 Control Range}         & 0.0 - 8.0 vol\% (8.1-10 vol\% with Uncepecified Reduced Accuracy)                             \\ \hline
+		\textbf{Control Accuracy}          & \textpm2 vol\%                                                                                       \\ \hline
+		\textbf{Control Resolution}        & \begin{tabular}[c]{@{}l@{}}Internal Loop: 0.01 vol\%\\ User Parameter: 0.1 vol\%\end{tabular} \\ \hline
+		\textbf{O2 Control Range}          & 0.0 - 21.0 vol\%                                                                              \\ \hline
+		\textbf{Control Accuracy}          & \textpm0.05 vol\%                                                                                    \\ \hline
+		\textbf{Control Resolution}        & \begin{tabular}[c]{@{}l@{}}Internal Loop: 0.01 vol\%\\ User Parameter: 0.1 vol\%\end{tabular} \\ \hline
+		\textbf{Operation}                 & PC or Suitable Microscope required                                                            \\ \hline
+		\textbf{Compatibility}             & Petri-Dishes, Chambers, Chamber Plates, Chamber Slides, Multi-Well Plates                     \\ \hline
+	\end{tabularx}
+	\caption{Specifications for Zeis/Pecon Incubation System}
+	\label{tab:Zeis/Pecon_Specs}
 \end{table}
-\end{comment}
-
-\subsection{Pecon/Zeis}
-
 \subsection{ibidi}
+The Incubation system provided by Ibidi utilises three modules to maintain the environmental conditions within in incubation chamber. A temperature unit for thermal control, a CO2/O2 unit for CO2 and O2 concentration control, and a humidifying column for humidity control.
+
+The heating unit monitors and controls the temperature of the culture sample through heating of the incubation chamber.
+
+The CO2/O2 unit monitors and controls the concentration of both CO2 and O2 being pumped into the incubation chamber by controlling the release of pure CO2 and N2 into the gas mixture. The release of N2 displaces oxygen present in the air and so the system is only capable of producing hypoxia conditions. The CO2/O2 unit is also responsible for the heating of the gas mixture as well as the heating of the humidifying column and gas tube.
+
+The humidification control system works by controlling the mix of dry gas with humidified gas which is obtained through bubbling the dry gas flow through heated distilled water.
+
+The Ibidi incubation system as a whole has the specifications shown in \autoref*{tab:Ibidi_Specs}.
+
+\begin{table}[H]
+	\centering
+	\begin{tabularx}{\textwidth}{|X|X|}
+		\hline
+		\textbf{Temperature Control Range} & Ambient + 5\degree C - 50\degree C                                \\ \hline
+		\textbf{Control Accuracy}          & \textpm 0.2\degree C with \textpm 0.5\degree C uniformity                         \\ \hline
+		\textbf{Control Resolution}        & User Parameter: 0.1\degree C                             \\ \hline
+		\textbf{CO2 Control Range}         & 0.0 - 15.0 vol\%                                \\ \hline
+		\textbf{Control Accuracy}          & \textpm 0.2 vol\% + 3\% of Reading                      \\ \hline
+		\textbf{Control Resolution}        & User Parameter: 0.1 vol\%                       \\ \hline
+		\textbf{O2 Control Range}          & 0.5 - 21.0 vol\%                                \\ \hline
+		\textbf{Control Accuracy}          & \textpm 0.2 vol\% (typical), \textpm 0.7 vol\% (max)            \\ \hline
+		\textbf{Control Resolution}        & User Parameter: 0.1 vol\%                       \\ \hline
+		\textbf{Humidity Control Range}    & Supply RH - 99\% RH                             \\ \hline
+		\textbf{Sensor Accuracy}           & \textpm 2.5\%                                           \\ \hline
+		\textbf{Control Resolution}        & 0.1\%                                           \\ \hline
+		\textbf{Operation}                 & On Device Controls or Connected PC              \\ \hline
+		\textbf{Compatibility}             & Petri-Dishes, Chamber Slides, Multi-Well Plates \\ \hline
+	\end{tabularx}
+	\caption{Specifications for Ibidi Incubation System}
+	\label{tab:Ibidi_Specs}
+\end{table}
 
 \subsection{Tokai Hit}
 

@@ -24,23 +24,23 @@
 	
 	The incubator stage includes a heated glass topped lid\cite{peconIncubatorS1Compact} and a heated insert which accepts mounts for the different culture vessels used in microscopy. The heated insert directly heats the culture medium through physical contact, and the heated lid provides radiative heating and condensation prevention by heating the glass panel directly. The insert supports perfusion experiments utilising two ports which allow tubes to be run to the culture.
 	
-	%The main reason why the Zeis/Pecon stage top incubator system is not suitable for long term imaging without an external containment enclosure is due to the method of gas flow through the incubator. The design of the Incubator stage is such that the inflowing gas mixture flows over the culture media and then exhausts passively through the opening on the bottom and through the sides. This means that the cell culture is not completely sealed inside the incubator which can result in contamination. The incubator lid and heated insert are not autoclabale and this reduces the sterilization capibilities of the incubation chamber.
+	%The main reason why the Zeis/Pecon stage top incubator system is not suitable for long term imaging without an external containment enclosure is due to the method of gas flow through the incubator. The design of the Incubator stage is such that the inflowing gas mixture flows over the culture media and then exhausts passively through the opening on the bottom and through the sides. This means that the cell culture is not completely sealed inside the incubator which can result in contamination. The incubator lid and heated insert are not autoclabale and this reduces the sterilisation capibilities of the incubation chamber.
 	
 	\section{Ibidi}
-	The Ibidi stage top incubator functions similarly to the Zeis/Pecon module, however it makes use of only 3 modules to maintain environmental conditions.
+	The Ibidi stage top incubator functions similarly to the Zeis/Pecon module, however it makes use of three modules to maintain environmental conditions.
 	
 	The Heating System Silver Line\cite{ibidiIbidiHeatingSystem} module regulates the temperature of the incubator. It makes use of 6 independent channels connected via 4 ports, two of which connect to two channels each. These channels are used to monitor and control the temperature of the components used in the system, such as the heated lid and heated plate. The module maintains culture temperature by monitoring and controlling the temperature of the heated lid, heated base and optionally the microscope objective. The module infers the culture temperature using pre-set temperatures, or by performing a calibration whereby an identical set-up is placed in the chamber with the included thermocouple to tune the required chamber settings to meet the desired culture temperature. The temperature module can be operated using the on device buttons and screen, or it can be connected to a PC for control using the free software. The temperature module does not heat the gas mixture.
 	
 	The Gas Incubation System\cite{ibidiIbidiGasIncubation} comes in two different models, the CO2 - Silver Line and the CO2/O2 - Silver Line. The difference between these two systems is the former is only capable of regulating CO2 concentration, where as the latter has the ability to regulate O2 concentration as well as CO2 concentration. The module has three gas inputs for pressurised air, CO2 and N2. The CO2 and N2 are fed into and mixed with the pressurised air to obtain a mixture with the desired CO2 and O2 concentrations. The module then heats the gas mixture before pumping it to the incubation chamber. If the CO2 only module is used, the N2 air input is still present on the device, however it is sealed internally and so the module is unable to regulate O2 concentration. Due to the method of using N2 to displace O2 in the mixture, this system is only capable of producing hypoxia environments. The gas incubator module has two output ports which are used in conjunction with the Humidifying column to mix the dry gas with humidified gas to obtain the desired relative humidity as shown in \autoref{fig:ibidiHumidityControlDiagram}. The gas incubation module has two electrical connections, one to control the heating of the humidifying column and gas line, and the second to connect to the humidity sensor present in the incubation chamber. The module can be operated using the on device buttons and screen, or it can be connected to a PC for control using the free software.
 	
-	The Humidifying column\cite{ibidiIbidiGasIncubation} works by bubbling the airflow through heated, distilled water to increase the relative humidity to approximately 100\% RH. This is then mixed with dry gas to obtain the desired \% RH
+	The Humidifying column\cite{ibidiIbidiGasIncubation} works by bubbling the airflow through heated, distilled water to increase the relative humidity to approximately 100\% RH. This is then mixed with dry gas to obtain the desired \% RH.
 	
 	The Ibidi incubation chamber comes in two versions, one version supports culture mediums with Petri dishes and slides, the second version supports multi-well plates. The Petri dish/Slide version of the chamber supports perfusion experiments using two ports which allow tubes to be run to the culture. Both chambers directly heat the culture medium through physical contact and provide radiative heating and condensation prevention by heating the glass lid.
 	
 	
 	\begin{figure}
 		\centering
-		\includegraphics[width=0.7\linewidth]{Figures/Ibidi_Humidity_Control_Diagram}
+		\includegraphics[width=0.5\linewidth]{Figures/Ibidi_Humidity_Control_Diagram}
 		\caption[Ibidi Chamber Gas Flow Diagram]{Diagram Showing the Humidity Control Mechanism Used by the Ibidi Gas Incubation System \cite{ibidiIbidiGasIncubation}}
 		\label{fig:ibidiHumidityControlDiagram}
 	\end{figure}
@@ -67,6 +67,7 @@
 	The HM-ACTIVE\cite{oko-labHMACTIVE_Manual} operates by passing the gas mixture over heated water to increase the RH. The water temperature can be altered to control the RH of the out flowing gas. The humidity control unit is controlled by the gas mixture unit.
 	
 	The H301-K-FRAME\cite{oko-labH301KFRAME_User_Manual} uses a design that is compatible with most major culture vessels, each using a different sample holder. The chamber is also designed to work with various lids depending on the required application. The chamber supports perfusion experiments and microfluidic experiments. The chamber directly heats the culture medium through physical contact and provides radiative heating and condensation prevention by heating the glass lid
+
 	\section{Shortfalls}
 	
 	\subsection{Containment}
@@ -74,23 +75,31 @@
 	
 	This means that the exhausting air is unfiltered and may be contaminated with the cells present during the experiment, which can lead to contamination of the surrounding workspace. For this reason, when working with potentially lethal pathogens, it is required that the incubator be placed within a larger containment vessel to ensure that contamination does not occur.
 	
-	\subsection{Disinfection and sterilization}
-	The manufactures of these incubation chambers specify disinfection techniques that do not meet with all standard BSL-3 disinfection guidelines. Most BSL-3 laboratories require equipment sterilization either using an autoclave or by using disinfectants that are adequate for the organism which is being worked with. For example:
+	\subsection{Disinfection and sterilisation}
+	
+	All equipment inside of a BSL-3 lab requires either sterilisation or disinfection depending on the equipment use or properties. Sterilisation is used to kill almost all micro cellular activity on an item and is rated on the Sterility Assurance Level (SAL) which indicates the probability of a single microbe surviving. Disinfection is used to kill enough micro cellular life to achieve a safe enough level required by the laboratory.
+	Examples of sterilisation and disinfection techniques are as follows:
+	
 	\begin{itemize}
 		\item Sodium hypochlorite(bleach), is useful as a broad spectrum disinfectant and is effective against bacterial spores\cite{BiologicalSafetyManual2021}, \cite{BiosafetyManualAppendixIDisinfectantsforBiohazardousMaterialsSOP}, \cite{barryBSL3LabDecontamination2025}. 
-		\item hydrogen peroxide, which is an extremely effective sterilization liquid\cite{BiologicalSafetyManual2021} and is often used for sterilization of tool, biological safety cabinets and laboratories\cite{grareEfficacyDryMist2008}.
-		\item Quaternary Ammonium Compounds, which provides cost effective but low effectiveness disinfection\cite{BiologicalSafetyManual2021}, \cite{BiosafetyManualAppendixIDisinfectantsforBiohazardousMaterialsSOP}, \cite{barryBSL3LabDecontamination2025}.
+		
+		\item hydrogen peroxide, which is a very effective sterilising chemical\cite{BiologicalSafetyManual2021} and is often used for sterilisation of tool, biological safety cabinets and laboratories\cite{grareEfficacyDryMist2008}.
+		
+		\item Quaternary Ammonium Compounds, which provides cost effective but low level disinfection\cite{BiologicalSafetyManual2021}, \cite{BiosafetyManualAppendixIDisinfectantsforBiohazardousMaterialsSOP}, \cite{barryBSL3LabDecontamination2025}.
+		
 		\item Alcohols, which offer an intermediary disinfection \cite{BiologicalSafetyManual2021}, however are ineffective against spores\cite{BiosafetyManualAppendixIDisinfectantsforBiohazardousMaterialsSOP}
+		
+		\item Autoclave, which provides extremely effective sterilization using a pressurized containment vessel filled with steam heated to approximately \(120^\circ\)C 
 	\end{itemize}
 	
-	The aforementioned commercial solutions specify the use of concentrated  alcohol solutions such as ethanol or isopropanol, which are not suitable for adequate sterilization of microbes which produce spores, such as Mycobacterium tuberculosis, which is the primary cell considered in this feasibility study. Furthermore, Most of these solutions do not specify whether they are Autoclave compatible, leaving compatibility with autoclave sterilization uncertain. However, the Tokai hit and Zeis/Pecon incubator specifically mention that they are not compatible with autoclaves. 
+	The aforementioned commercial solutions specify the use of concentrated  alcohol solutions such as ethanol or isopropanol, which are not suitable for adequate sterilisation of microbes which produce spores, such as Mycobacterium tuberculosis, which is the primary cell considered in this feasibility study. Furthermore, Most of these solutions do not specify whether they are Autoclave compatible, leaving compatibility with autoclave sterilisation uncertain. However, the Tokai hit and Zeis/Pecon incubator specifically mention that they are not compatible with autoclaves. 
 	
 	\subsection{Key Takeaways}
-	The discussed commercial solutions are incompatible with experiments that require stage top incubation for stand alone, long term, live cell imaging within a BSL-3 lab. This is because of the lack of adequate containment capabilities as well as the incompatibility with disinfection and sterilization methods required by the microbes of interest.
+	The discussed commercial solutions are incompatible with experiments that require stage top incubation for stand alone, long term, live cell imaging within a BSL-3 lab. This is because of the lack of adequate containment capabilities as well as the incompatibility with disinfection and sterilisation methods required by the microbes of interest.
 	
 	\begin{figure}
 		\centering
-		\includegraphics[width=0.7\linewidth]{Figures/Ibidi_Gasflow_Diagram}
+		\includegraphics[width=0.6\linewidth]{Figures/Ibidi_Gasflow_Diagram}
 		\caption{Diagram Showing the Gas Flow within the ibidi Multi-Well Incubation Chamber}
 		\label{fig:ibidigasflowdiagram}
 	\end{figure}
