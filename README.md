@@ -38,3 +38,7 @@ V3.3:
 2.  V shape groove in base expanded for accomodation with 0.4mm 3D printer nozel
 3.  Stand-offs added to lid to press the Multi-Well plate into the base.
 4.  Holes for screws modified to allow for a hex socket screw with a head.
+
+V3.4:
+1.  Screws changed to be 7991 - Hexagon Socket Countersunk Screws (M4x10).
+2.  Base screw hole modified to fit an insert for screw.
