@@ -8,8 +8,131 @@
 \chapter{Conceptual Design} \label{ch:design}
 \vspace{-1cm}
 % =====================================================
+The main focus on this report is centred about achieving a bio-containment system that allows for observing cultures grown in a 96-well plate. The system must ensure that no contamination can occur from the cells grown inside the container.
+
+This section aims to describes the steps and decisions taken in the process of making a conceptual design for a containment vessel that meets the requirements mentioned in \autoref*{ch:FeasibAnalysis}. This conceptual design will help to determine the feasibility of taking this project further and incorporating incubation techniques which will enable the bio-containment vessel to be utilised as an incubation chamber that can be used for long term experimentation independently from traditional laboratory incubation cabinets
+
 \section{Design Iterations}
-These were the iterations and steps taken when conceptually designing the product
+\subsection{Design Version 1}
+
+
+\begin{figure}
+	\centering
+	\begin{subfigure}[b]{0.45\textwidth}
+		\centering
+		\includegraphics[width=\linewidth]{Figures/Design1_Base_Annotated}
+		\caption[]{Conceptual Design 1 Base Top-Side}
+		\label{fig:design1baseTop}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[b]{0.45\textwidth}
+		\centering
+		\includegraphics[width=\linewidth]{Figures/Design1_Base2}
+		\caption[]{Conceptual Design 1 Base Bottom-Side}
+		\label{fig:design1baseBottom}
+	\end{subfigure}
+	\caption[]{Conceptual Design 1 Base}
+	\label{fig:design1Base}
+\end{figure}
+
+\begin{figure}
+	\centering
+	\begin{subfigure}[b]{0.45\textwidth}
+		\centering
+		\includegraphics[width=\linewidth]{Figures/Design1_Lid}
+		\caption[]{Conceptual Design 1 Lid Top-Side}
+		\label{fig:design1LidTop}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[b]{0.45\textwidth}
+		\centering
+		\includegraphics[width=\linewidth]{Figures/Design1_Lid2}
+		\caption[]{Conceptual Design 1 Lid Bottom-Side}
+		\label{fig:design1LidBottom}
+	\end{subfigure}
+	\caption[]{Conceptual Design 1 Lid}
+	\label{fig:design1Lid}
+\end{figure}
+
+The first design version uses a base and a lid to seal the multi-well plate inside the chamber. 
+
+%The base has a inner chamber that the multi-well plate is placed in. The plate rests on a ledge along the bottom of the base. The base has an opening on the bottom, which is designed such that a glass pane can be inserted and glued into place to allow for a complete seal whilst still allowing for a clear optical path for observation.
+
+As can be seen in \autoref{fig:design1baseTop}, the base of the chamber has a internal cavity, which allows a multi-well plate to be placed inside, the plate is designed to rest on a ledge along the bottom of the inner cavity. There is a groove along the top which is designed to align with a groove in the lid shown in \autoref{fig:design1LidBottom}, and house an O-Ring which will seal the inner chamber. The base is designed to mount with the lid with the use of four M4 bolts which will run through the four holes in the corners of the base and lid.
+
+\autoref{fig:design1baseBottom} shows the recess which is designed to allow a glass plate to be embedded into the base and sealed using epoxy or glue. This allows for a clear optical path for viewing the growth culture. The base also includes hex shaped recesses which allows for embedding a hex nut to interface with the M4 bolts used to mount the lid.
+
+As shown in \autoref{fig:design1LidTop}, there is a similar recess which is designed to allow a glass plate or aluminium plate to be embedded into the lid sealed using epoxy or glue. A glass plate can be used to allow for a complete optical path from the top to bottom of the chamber, alternatively an aluminium plate can be embedded into the lid, this plate would utilise LED's and a heating element to provide better heating capabilities, as well as allowing the chamber itself to provide the required illumination required for microscopy.
+
+\subsubsection{Changes}
+This design was improved upon using the following alterations.
+
+The recess for the glass/aluminium pane on the lid was moved from the outside of the lid to the inside of the lid. By making this change, any potential pressure within the container will press the pane into the lid and ensure the seal.
+
+The design for a glass pane on the base of the container was removed and the frame of the multi-well plate was used as the sealing agent for the base of the container. By removing this pane on the base, there is a reduction in the chance of condensation forming on the pane which may obscure observation. Additionally, this allows the floor of the base to be thinner, which allows the multi-well plate to sit closer to the microscope objective and will allow for better observation.
+
+The O-ring groove was altered to use a mating feature that allows the lid to mate with the base to ensure that there is proper alignment of the two parts. Additionally the O-ring would rest in this feature and utilise a standard O-ring groove design.  
+
+\subsection{Design Version 2}
+\begin{figure}
+	\centering
+	\begin{subfigure}[b]{0.45\textwidth}
+		\centering
+		\includegraphics[width=\linewidth]{Figures/Design2_Base}
+		\caption[]{Conceptual Design 2 Base}
+		\label{fig:design2base}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[b]{0.45\textwidth}
+		\centering
+		\includegraphics[width=\linewidth]{Figures/Design2_Lid_Annotated}
+		\caption[]{Conceptual Design 2 Lid}
+		\label{fig:design2Lid}
+	\end{subfigure}
+	\caption[]{Conceptual Design 2}
+	\label{fig:design2}
+\end{figure}
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.7\linewidth]{Figures/Design2_Assembly}
+	\caption{Cross Section of Conceptual Design 2 Assembly}
+	\label{fig:design2assembly}
+\end{figure}
+
+The fundamental design for the second version of the conceptual design is similar to that in version one. The chamber uses a base with a detachable lid to seal the multi-well plate inside the container. Two o-rings are used to seal the chamber and prevent contamination.
+
+\subsubsection{O-Ring}
+As can be seen in \autoref{fig:design2} and \autoref{fig:design2assembly}, this updated version uses a mating feature where the base incorporates a recessed groove which will interface with the extruded feature on the lid. This ensures that the lid and base align correctly to provide a better seal. 
+
+The groove for the o-ring was designed into the mating feature to ensure that the o-ring makes consistent contact with the intended sealing surface, which will be within the recess present on the base.
+
+The base and lid feature a parametric design model, where the parameters of the o-ring to be used can be entered and the mating feature and o-ring groove will dynamically change to suit the given parameters
+
+The total perimeter of the feature is determined by the circumference of the o-ring. The circumference of the o-ring is approximated by using \autoref{eqn:ORing_Circum}
+
+\begin{equation}
+	Circumfrence=2\pi(\frac{Oring_{ID}}{2}+\frac{Oring_{OD}}{2})
+	\label{eqn:ORing_Circum}
+\end{equation}
+
+Based on this circumference, the O-ring groove is changed such that the it maintains the same rectangular ratio as the chamber itself, whilst changing the total mid-point perimeter such that the o-ring is not stretched when placed inside the groove.
+
+The groove itself is designed according to recommendations and guides provided by the Parker Handbook \cite{ORingHandbook} and online articles including O-Ring Groove (Gland) Design Guide by Tessa Axsom \cite{axsomORingGrooveGland2022}. The width of the o-ring groove is designed to allow for a 5\% expansion in the o-ring diameter \cite{axsomORingGrooveGland2022}, this will ensure that the o-ring gets sufficiently compressed by the walls to ensure a suitable seal. According to the guides provided by Marco sealing solutions \cite{UnderstandingORingSqueeze} and Tessa Axosm \cite{axsomORingGrooveGland2022}, in order to obtain a suitable sealing effect, a static face seal must use an o-ring with a compression ration of between 20\% and 30\%. 
+
+\begin{equation}
+	CompressionRatio = \frac{ORing_{Diameter}-GrooveDepth}{ORing_{Diameter}}
+	\label{eqn:OringCompression}
+\end{equation}
+
+\begin{equation}
+	GrooveDepth = ORing_{Diameter}(1-CompressionRatio)
+	\label{eqn:OringDepth}
+\end{equation}
+
+The equation for the compression ratio of an o-ring shown in \autoref{eqn:OringCompression}
+
+The groove depth is designed to be 20\% smaller than the diameter of the o-ring \cite{ORingHandbook}, \cite{axsomORingGrooveGland2022}, \cite{UnderstandingORingSqueeze}. This allows for the o-ring to be sufficiently compressed to provide a proper seal.
 
 \section{Final Conceptual Design}
 The final design is the following, and uses the following features.

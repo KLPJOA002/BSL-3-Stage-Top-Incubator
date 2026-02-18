@@ -5,15 +5,15 @@
 \input{../Style/ChapterStyle.tex}
 \begin{document}
 % ----------------------------------------------------
-\chapter{Feasibility Analysis} \label{ch:FeasibAnalysis}
+\chapter{Specification Analysis} \label{ch:FeasibAnalysis}
 \vspace{-1cm}
 % ----------------------------------------------------
 % =====================================================
 \section{Commercial Assessment}
-The commercial solutions from Zeis/Pecon, Ibidi, Tokai-Hit and Oko-lab are assessed for their primary method of operation as well as the environmental control specifications provided by each product.
+The commercial solutions from Zeis/Pecon, Ibidi, Tokai-Hit and Okolab are assessed for their primary method of operation as well as the environmental control specifications provided by each product.
 
 \subsection{Zeis/Pecon}
-The Incubation system provided by Zeis/Pecon utilises four modules for the control of the four major environmental conditions. A temperature unit for thermal control, a CO2 unit for CO2 concentration control, an O2 unit for O2 concentration control and a humidifying bottle for humidity control.
+The incubation system provided by Zeis/Pecon utilises four modules for the control of the four major environmental conditions. A temperature unit for thermal control, a CO2 unit for CO2 concentration control, an O2 unit for O2 concentration control and a humidifying bottle for humidity control.
 
 The heating unit monitors and controls the temperature of the culture sample through heating of the incubation chamber, gas airflow and humidifying bottle.
 
@@ -41,11 +41,11 @@ The Zeis/Pecon incubation system as a whole has the specifications shown in \aut
 		\textbf{Operation}                 & PC or Suitable Microscope required                                                            \\ \hline
 		\textbf{Compatibility}             & Petri-Dishes, Chambers, Chamber Plates, Chamber Slides, Multi-Well Plates                     \\ \hline
 	\end{tabularx}
-	\caption{Specifications for Zeis/Pecon Incubation System}
+	\caption{Specifications for Zeis/Pecon Incubation System \cite{peconPeconZeisTempModule}, \cite{peconPeconZeisCO2}, \cite{peconPeconZeisO2}, \cite{peconPeconZeisHeating}}
 	\label{tab:Zeis/Pecon_Specs}
 \end{table}
 \subsection{ibidi}
-The Incubation system provided by Ibidi utilises three modules to maintain the environmental conditions within in incubation chamber. A temperature unit for thermal control, a CO2/O2 unit for CO2 and O2 concentration control, and a humidifying column for humidity control.
+The incubation system provided by Ibidi utilises three modules to maintain the environmental conditions within in incubation chamber. A temperature unit for thermal control, a CO2/O2 unit for CO2 and O2 concentration control, and a humidifying column for humidity control.
 
 The heating unit monitors and controls the temperature of the culture sample through heating of the incubation chamber.
 
@@ -74,18 +74,85 @@ The Ibidi incubation system as a whole has the specifications shown in \autoref*
 		\textbf{Operation}                 & On Device Controls or Connected PC              \\ \hline
 		\textbf{Compatibility}             & Petri-Dishes, Chamber Slides, Multi-Well Plates \\ \hline
 	\end{tabularx}
-	\caption{Specifications for Ibidi Incubation System}
+	\caption{Specifications for Ibidi Incubation System \cite{ibidiIbidiHeatingSystem}, \cite{ibidiIbidiGasIncubation}}
 	\label{tab:Ibidi_Specs}
 \end{table}
 
 \subsection{Tokai Hit}
+The incubation system provided by Tokai hit utilises one or two modules to maintain the environmental conditions within the incubation chamber, depending on the parameters that are desired to be controlled. The STXG/STXF module is capable of regulating both temperature conditions and CO2 gas concentration. An additional unit, STX-CO2O2, can be connected to the system to override the gas mixture control, and provide control for CO2 and O2 concentration.
 
-\subsection{Oko Lab}
+The STXG/STXF unit monitors and controls the temperature of the culture sample through heating of the incubation chamber. Additionally this unit is capable of regulating the concentration of CO2 being pumped into the incubation chamber. The STXG model can regulate the CO2 concentration by controlling the release of pure CO2 into the gas mixture, whereas the STXF module requires a pre-mixed pressurised air supply with 5\% CO2.
 
+O2 concentration can be achieved using a separate optional module which provides full gas concentration control.
+
+Humidity in the incubation chamber is controlled through a heated water bath that is situated inside the chamber, and so forces a constant high relative humidity.
+
+The specifications for the STXG and STX-CO2O2 incubation system is shown in \autoref{tab:TokaiHit_Specs}.  
+\begin{table}[H]
+	\centering
+	\begin{tabularx}{\textwidth}{|X|X|}
+		\hline
+		\textbf{Temperature Control Range} & Ambient +5\degree C - 65\degree C         \\ \hline
+		\textbf{Control Accuracy}          & \textpm 0.3\degree C at heater surface    \\ \hline
+		\textbf{Control Resolution}        & User Parameter 0.1\degree C               \\ \hline
+		\textbf{CO2 Control Range}         & 5\% vol - 20\% vol                        \\ \hline
+		\textbf{Control Accuracy}          & \textpm 0.1\% vol                         \\ \hline
+		\textbf{Control Resolution}        & User Parameter 0.1\% vol                  \\ \hline
+		\textbf{O2 Control Range}          & 0.1\% vol - 18\% vol                      \\ \hline
+		\textbf{Control Accuracy}          & ---                                       \\ \hline
+		\textbf{Control Resolution}        & ---                                       \\ \hline
+		\textbf{Operation}                 & On Device or Connected PC                 \\ \hline
+		\textbf{Compatibility}             & Petri-Dishes, Chamber Slides, Multi-Well Plates\\ \hline
+	\end{tabularx}
+	\caption{Specifications for the Tokai Hit Incubation System \cite{tokaihitSTXSeriesInstruction}}
+	\label{tab:TokaiHit_Specs}
+\end{table}
+
+\subsection{OkoLab}
+The incubation system provided by OkoLab utilises three modules to maintain the environmental conditions. A temperature unit for thermal control, a gas unit for CO2 and O2 concentration control and a humidifying bottle. 
+
+The heating unit monitors and controls the temperature of the temperature of the culture sample through heating of the incubation chamber.
+
+The CO2/O2 unit monitors and controls the concentration of both CO2 and O2 being pumped into the incubation chamber. The gas module is capable of working with a mix of concentrated O2, concentrated CO2, and concentrated N2 to obtain a complete control of the gas mixture being passed into the incubation chamber. Alternatively, the unit can operate with a supply of pressurised air, concentrated N2 and concentrated CO2 to get less complete atmospheric control.
+
+Humidity control is obtained by bubbling the gas mixture through heated water to increase the relative humidity.
+
+The specifications for the OkoLab incubation system is shown in \autoref{tab:OkoLabs_Specs}
+
+\begin{table}[H]
+	\centering
+	\begin{tabularx}{\textwidth}{|X|X|}
+		\hline
+		\textbf{Temperature Control Range} & Ambient +3\degree C - 60\degree C                                               \\ \hline
+		\textbf{Control Accuracy}          & \textpm 0.1 for sample feedback, \textpm 0.3 for chamber feedback             \\ \hline
+		\textbf{Control Resolution}        & User Parameter 0.1                                            \\ \hline
+		\textbf{CO2 Control Range}         & 0\% vol - 20\% vol                                            \\ \hline
+		\textbf{Control Accuracy}          & \textpm 0.2\% vol at 5\% vol                                          \\ \hline
+		\textbf{Control Resolution}        & User Parameter 0.1\% vol                                      \\ \hline
+		\textbf{O2 Control Range}          & 0\% vol - 95\% vol (using Pure O2 source, otherwise 20\% max) \\ \hline
+		\textbf{Control Accuracy}          & \textpm 0.2\% at 5\% vol                                              \\ \hline
+		\textbf{Control Resolution}        & User Parameter 0.1\% vol                                      \\ \hline
+		\textbf{Humidity Control Range}    & 26\% RH - 95\% RH at 50                                       \\ \hline
+		\textbf{Control Accuracy}          & \textpm 1\%                                                           \\ \hline
+		\textbf{Control Resolution}        & User Parameter 1\%                                            \\ \hline
+	\end{tabularx} 
+	\caption{Specifications for the OkoLab Incubation System}
+	\label{tab:OkoLabs_Specs}
+\end{table}
 % =====================================================
 \section{Requirements}
-Describe requirements needed for this project 
+The final goal of this project is the development of a stage top incubator that can be used to do long term observations of M. tb without the requirement of a large external incubation chamber.
 
+However this report focuses on determining the feasibility of undertaking this project, and so has a reduced set of requirements aimed at scoping the fundamental aspects that would be required to understand the project goal.
+Therefore the requirements for this project include the following:
+\begin{itemize}
+	\item Containment of Mycobacterium tuberculosis (M. tb)
+	\item Compatibility with low magnification microscope stage
+	\item Compatibility with a BSL-3 laboratory
+	\item Compatibility with a 96-well culture vessel
+\end{itemize}
+
+This project focuses on the main aspect of bio-containment within a BSL-3 lab and how that can be achieved with a format that is compatible with the growth vessels and microscopy standards that are utilised for this kind of experiment.
 \begin{comment}
 
 \begin{table}[h]
@@ -109,8 +176,31 @@ Describe requirements needed for this project
 
 % =====================================================
 \section{Specifications}
-Describe the specifications that are decided on for this project.
 
+The specifications for the commercial solutions were assessed to obtain an understanding of specifications this project would need to meet in order to achieve a incubation system that would provide suitable conditions required for this type of long term imaging with cell cultures.
+
+\autoref{tab:Derived_Specs} shows the list of specifications that were decided on based off the specifications for the commercial solutions shown above. These specifications fall within those provided by commercial solutions and should facilitate the incubation of most cell cultures.
+
+\begin{table}[]
+	\centering
+	\begin{tabular}{|l|l|}
+		\hline
+		\textbf{Temperature Control Range} & Ambient - 55         \\ \hline
+		\textbf{Temperature Accuracy}      & 0.2                  \\ \hline
+		\textbf{Temperature Resolution}    & 0.1                  \\ \hlineB{5} 
+		\textbf{CO2 Control Range}         & 0\% vol - 15\% vol   \\ \hline 
+		\textbf{CO2 Control Accuracy}      & 0.1\% vol            \\ \hline
+		\textbf{CO2 Control Resolution}    & 0.1\% vol            \\ \hlineB{5}
+		\textbf{O2 Control Range}          & 0.5\% vol - 20\% vol \\ \hline
+		\textbf{O2 Control Accuracy}       & 0.1\% vol            \\ \hline
+		\textbf{O2 Control Resolution}     & 0.1\% vol            \\ \hlineB{5}
+		\textbf{Humidity Control Range}    & 90\% RH - 99\%RH     \\ \hline
+		\textbf{Humidity Control Accuracy} & ---                  \\ \hline
+		\textbf{Humidity Control Range}    & ---                  \\ \hline
+	\end{tabular}
+	\caption{Derived Specifications for the Continuation of this Project.}
+	\label{tab:Derived_Specs}
+\end{table}
 \begin{comment}
 \begin{table}[h]
     \centering
@@ -130,7 +220,7 @@ Describe the specifications that are decided on for this project.
 \end{comment}
 % =====================================================
 \section{Feasibility}
-discus whether undertaking this project is feasible.
+discus whether undertaking this project is feasible. 
 % The table given below is an example of how you can present your ATPs. You are welcome to change or adapt it to your need. The example given is not a valid ATP description.
 
 \begin{comment}
