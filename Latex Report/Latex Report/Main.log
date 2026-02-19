@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.27)  18 FEB 2026 22:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.27)  19 FEB 2026 22:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1421,47 +1421,80 @@ Package pdftex.def Info: Figures/Design2_Lid_Annotated.jpg  used on input line
 <Figures/Design2_Assembly.jpg, id=309, 676.02562pt x 286.82156pt>
 File: Figures/Design2_Assembly.jpg Graphic file (type jpg)
 <use Figures/Design2_Assembly.jpg>
-Package pdftex.def Info: Figures/Design2_Assembly.jpg  used on input line 98.
-(pdftex.def)             Requested size: 338.58632pt x 143.6555pt.
+Package pdftex.def Info: Figures/Design2_Assembly.jpg  used on input line 100.
+(pdftex.def)             Requested size: 152.36281pt x 64.64146pt.
+<Figures/Design2_Mating_Feature.jpg, id=310, 663.98062pt x 517.935pt>
+File: Figures/Design2_Mating_Feature.jpg Graphic file (type jpg)
+<use Figures/Design2_Mating_Feature.jpg>
+Package pdftex.def Info: Figures/Design2_Mating_Feature.jpg  used on input line
+ 107.
+(pdftex.def)             Requested size: 152.36281pt x 118.84593pt.
 
 
 [14 <./Figures/Design1_Lid.jpg> <./Figures/Design1_Lid2.jpg>]
 
-[15 <./Figures/Design2_Base.jpg> <./Figures/Design2_Lid_Annotated.jpg> <./Figur
-es/Design2_Assembly.jpg>]) (Chapters/04Results.tex
+[15{C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.e
+nc} <./Figures/Design2_Base.jpg> <./Figures/Design2_Lid_Annotated.jpg> <./Figur
+es/Design2_Assembly.jpg> <./Figures/Design2_Mating_Feature.jpg>]
 
-[16{C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.e
-nc}]
+[16]
+<Figures/Design3_Lid_Top.jpg, id=352, 909.3975pt x 522.45187pt>
+File: Figures/Design3_Lid_Top.jpg Graphic file (type jpg)
+<use Figures/Design3_Lid_Top.jpg>
+Package pdftex.def Info: Figures/Design3_Lid_Top.jpg  used on input line 178.
+(pdftex.def)             Requested size: 217.66211pt x 125.0482pt.
+<Figures/Design3_Lid_Bottom.jpg, id=353, 910.15031pt x 523.9575pt>
+File: Figures/Design3_Lid_Bottom.jpg Graphic file (type jpg)
+<use Figures/Design3_Lid_Bottom.jpg>
+Package pdftex.def Info: Figures/Design3_Lid_Bottom.jpg  used on input line 185
+.
+(pdftex.def)             Requested size: 217.66211pt x 125.30464pt.
+<Figures/Design3_Base.jpg, id=354, 911.65594pt x 603.75563pt>
+File: Figures/Design3_Base.jpg Graphic file (type jpg)
+<use Figures/Design3_Base.jpg>
+Package pdftex.def Info: Figures/Design3_Base.jpg  used on input line 197.
+(pdftex.def)             Requested size: 217.66211pt x 144.14888pt.
+<Figures/Design3_Assembly.jpg, id=355, 858.95906pt x 429.85594pt>
+File: Figures/Design3_Assembly.jpg Graphic file (type jpg)
+<use Figures/Design3_Assembly.jpg>
+Package pdftex.def Info: Figures/Design3_Assembly.jpg  used on input line 204.
+(pdftex.def)             Requested size: 217.66211pt x 108.92639pt.
+
+
+[17 <./Figures/Design3_Lid_Top.jpg> <./Figures/Design3_Lid_Bottom.jpg>])
+(Chapters/04Results.tex
+
+[18 <./Figures/Design3_Base.jpg> <./Figures/Design3_Assembly.jpg>]
 Chapter 5.
 ) (Chapters/05Conclusion.tex
 
-[17
+[19
 
 ]
 Chapter 6.
 )
 
-[18
+[20
 
 ] (Main.bbl
 
-[19
+[21
 
 ])
 
-[20] (Main.aux)
+[22] (Main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
  ***********
 Package rerunfilecheck Info: File `Main.out' has not changed.
-(rerunfilecheck)             Checksum: 2B47C76B93311C81B7E7919162F36827;3764.
+(rerunfilecheck)             Checksum: 69EB9834838311F6724C5A308805801D;3729.
  ) 
 Here is how much of TeX's memory you used:
- 36707 strings out of 468080
- 740372 string characters out of 5425771
- 1386881 words of memory out of 5000000
- 64608 multiletter control sequences out of 15000+600000
+ 36796 strings out of 468080
+ 743064 string characters out of 5425771
+ 1387484 words of memory out of 5000000
+ 64687 multiletter control sequences out of 15000+600000
  680907 words of font info for 145 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  95i,16n,93p,2577b,1337s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1474,9 +1507,9 @@ b><C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb
 C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C
 :/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C
 :/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Main.pdf (22 pages, 2383959 bytes).
+Output written on Main.pdf (24 pages, 3977530 bytes).
 PDF statistics:
- 454 PDF objects out of 1000 (max. 8388607)
- 89 named destinations out of 1000 (max. 500000)
- 35107 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 482 PDF objects out of 1000 (max. 8388607)
+ 99 named destinations out of 1000 (max. 500000)
+ 35132 words of extra memory for PDF output out of 35830 (max. 10000000)
 

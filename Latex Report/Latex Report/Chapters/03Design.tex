@@ -95,15 +95,29 @@ The O-ring groove was altered to use a mating feature that allows the lid to mat
 
 \begin{figure}
 	\centering
-	\includegraphics[width=0.7\linewidth]{Figures/Design2_Assembly}
-	\caption{Cross Section of Conceptual Design 2 Assembly}
-	\label{fig:design2assembly}
+	\begin{subfigure}[b]{0.45\textwidth}
+		\centering
+		\includegraphics[width=0.7\linewidth]{Figures/Design2_Assembly}
+		\caption{Cross Section of Conceptual Design 2 Assembly}
+		\label{fig:design2assembly}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[b]{0.45\textwidth}
+		\centering
+		\includegraphics[width=0.7\linewidth]{Figures/Design2_Mating_Feature}
+		\caption{Design 2 Mating Featue and O-ring Groove}
+		\label{fig:design2matingfeature}
+	\end{subfigure}
 \end{figure}
+
+
 
 The fundamental design for the second version of the conceptual design is similar to that in version one. The chamber uses a base with a detachable lid to seal the multi-well plate inside the container. Two o-rings are used to seal the chamber and prevent contamination.
 
 \subsubsection{O-Ring}
-As can be seen in \autoref{fig:design2} and \autoref{fig:design2assembly}, this updated version uses a mating feature where the base incorporates a recessed groove which will interface with the extruded feature on the lid. This ensures that the lid and base align correctly to provide a better seal. 
+
+
+As can be seen in \autoref{fig:design2}, \autoref{fig:design2assembly} and \autoref{fig:design2matingfeature}, this updated version uses a mating feature where the base incorporates a recessed groove which will interface with the extruded feature on the lid. This ensures that the lid and base align correctly to provide a better seal. 
 
 The groove for the o-ring was designed into the mating feature to ensure that the o-ring makes consistent contact with the intended sealing surface, which will be within the recess present on the base.
 
@@ -130,20 +144,83 @@ The groove itself is designed according to recommendations and guides provided b
 	\label{eqn:OringDepth}
 \end{equation}
 
-The equation for the compression ratio of an o-ring shown in \autoref{eqn:OringCompression}
+The equation for the compression ratio of an o-ring shown in \autoref{eqn:OringCompression} can be re-arranged into \autoref{eqn:OringDepth} to find the groove depth that is required to achieve the desired compression ratio for a given o-ring diameter. For this conceptual design, a compression ratio of 20\% was chosen as this would allow for a sufficient seal whilst still not preventing the lid to sit flush with the base
 
-The groove depth is designed to be 20\% smaller than the diameter of the o-ring \cite{ORingHandbook}, \cite{axsomORingGrooveGland2022}, \cite{UnderstandingORingSqueeze}. This allows for the o-ring to be sufficiently compressed to provide a proper seal.
+Since the containment chamber is designed with a rectangular profile, the corners of the o-ring groove need to utilise a fillet to prevent the the o-ring from being overstressed at the corners. According to the Parker O-Ring Handbook ORD-5700 \cite{ParkerORingHandbook}, the recommended inside corner radius should ideally be six times the cross sectional diameter of the o-ring, with a minimum of three times the cross sectional diameter. Therefore the container is designed to feature a fillet with a radius of six times the user defined o-ring cross-sectional diameter.
 
-\section{Final Conceptual Design}
-The final design is the following, and uses the following features.
-% 1. Provide a description of your solution and motivate why this design was chosen.
-% 2. Provide the final schematic showing the parts of the subsystem that you have designed, make sure to include:
-%       - labels and component values
-%       - descriptions/comments on different parts of the schematic
-%       - the completed schematic page setup: title, date, revision number, author name and surname.
-%       - power flags on all power connections (3V, 5V, Gnd, etc)
-% 2. Provide screenshots you your group's final PCB, make sure to include:
-%       - front, back and 3D view 
+To ensure that the lid is self-locating with respect to the base, the mating feature is designed to have a 10\degree slope which will ensure that the lid is properly aligned with the base. Additionally as can be seen in \autoref{fig:design2assembly} and \autoref{fig:design2matingfeature}, the lid is designed to sit flush against the base outside of the seal, whilst the lid does not make contact with the base on the inside of the seal. This ensures that the lid sits flush with the base and does not sit unevenly on the base. 
+
+\subsubsection{Base}
+The base uses the same principle where the multi-well plate rests on a ledge that is present on the bottom of the base. The secondary o-ring groove is designed using the same methodology showed above. This was done using the premise that the multi-well plate features a flat base which can be pressed into the o-ring to provide a seal. 
+
+The recess for a glass plate on the base was removed to eliminate the chance that condensation could form between this bottom plate and the multi-well plate which would obstruct the optical observations. 
+
+The base is still designed to attach to the lid with the use of four M4 bolts that go through holes on the four corners. To avoid the potential difficulty of 3D printing an overhanging feature for the prototype, the hexagonal shaped recess on the bottom of the plate has been removed.
+
+\subsubsection{Lid}
+The lid features a recessed groove that allows for a glass or aluminium pane to be embedded into the lid. The recess was moved from the outside to the inside of the lid to ensure that any pressure formed within the chamber would ensure a that the seal is maintained.
+
+\subsubsection{Changes}
+Upon reviewing the second iteration of the design, the following choices were made to base the third iteration on.
+
+Any sharp 90\degree corners were changed to feature rounded corners which better meets the capabilities of subtractive manufacturing techniques such as CNC milling. Additionally, most BSL-3 container practices avoid corners such as these as they are difficult to thoroughly disinfect and so often promote contamination.
+
+The bottom seal is changed to better interface with the multi-well plate as the initial design went under the assumption that the bottom of the multi-well plate featured a flat base. The multi-well plate, the Greiner 96 Well Micro-plates, used in the laboratory does not follow this assumption. 
+
+The holes used to secure the lid to the base are modified to ensure that the fastener is flush with the container to ensure that any features do not protrude outside the container. The M4 hex bolts are changed such that a threaded insert.
+
+\section{Design Version 3}
+
+\begin{figure}
+	\centering
+	\begin{subfigure}[b]{0.45\textwidth}
+		\centering
+		\includegraphics[width=\linewidth]{Figures/Design3_Lid_Top}
+		\caption[]{Conceptual Design 3 Lid Topside}
+		\label{fig:design3Lid_Top}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[b]{0.45\textwidth}
+		\centering
+		\includegraphics[width=\linewidth]{Figures/Design3_Lid_Bottom}
+		\caption[]{Conceptual Design 3 Lid Bottom}
+		\label{fig:design3Lid_Bottom}
+	\end{subfigure}
+	\caption[]{Conceptual Design 3 Lid}
+	\label{fig:design3}
+\end{figure}
+
+\begin{figure}
+	\centering
+	\begin{subfigure}[b]{0.45\textwidth}
+		\centering
+		\includegraphics[width=\linewidth]{Figures/Design3_Base}
+		\caption[]{Conceptual Design 3 Base}
+		\label{fig:design3base}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[b]{0.45\textwidth}
+		\centering
+		\includegraphics[width=\linewidth]{Figures/Design3_Assembly}
+		\caption[]{Conceptual Design 3 Assembly}
+		\label{fig:design3_Assembly}
+	\end{subfigure}
+	\caption[]{Conceptual Design 3 Base and Assembly Cross-Section}
+	\label{fig:design3_Base_and_Assembly}
+\end{figure}
+
+The fundamental design for the third version is similar to that in version 2. This iteration of the design was focused on altering the features of the design to be most compatible with 3D printing and potential milling.
+
+\subsubsection{Base}
+As can be seen in \autoref{fig:design3base} The base interior was modified to feature rounded corners where possible. This meets the capabilities of manufacturing techniques such as CNC milling, where achieving a sharp 90\degree corner is not possible. 
+
+The o-ring groove present on the bottom of the base was changed to be a shallow recess which fits the frame of the Greiner 96 well Microplates. This recess is intended to contain a gasket that will seal against the frame of the multi-well plate. 
+
+The holes used to for mounting the lid to the base, were modified to fit a heated insert that a screw will interface with. This eliminates the requirement for a nut that interfaces with a bolt.
+
+\subsubsection{Lid}
+
+
 
 % =====================================================
 

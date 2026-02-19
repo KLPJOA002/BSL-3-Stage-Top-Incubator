@@ -135,4 +135,10 @@ Understanding {{O-Ring Squeeze}}, {{Stretch}} \& {{Compression}} - {{Marco
   \url{https://www.marcorubber.com/o-ring-groove-design-considerations.htm}
 \BIBentrySTDinterwordspacing
 
+\bibitem{ParkerORingHandbook}
+\BIBentryALTinterwordspacing
+``Parker {{O-Ring Handbook ORD-5700}},'' Parker. [Online]. Available:
+  \url{https://www.parker.com/content/dam/Parker-com/Literature/O-Ring-Division-Literature/ORD-5700.pdf}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}

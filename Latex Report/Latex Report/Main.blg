@@ -17,45 +17,45 @@ Warning--empty journal in grareEfficacyDryMist2008
 Warning--empty year in grareEfficacyDryMist2008
 
 Done.
-You've used 19 entries,
+You've used 20 entries,
             4087 wiz_defined-function locations,
-            910 strings with 10748 characters,
-and the built_in function-call counts, 7149 in all, are:
-= -- 533
-> -- 91
+            914 strings with 10917 characters,
+and the built_in function-call counts, 7454 in all, are:
+= -- 555
+> -- 92
 < -- 13
-+ -- 50
++ -- 51
 - -- 19
-* -- 256
-:= -- 1266
-add.period$ -- 38
-call.type$ -- 19
-change.case$ -- 19
+* -- 267
+:= -- 1319
+add.period$ -- 40
+call.type$ -- 20
+change.case$ -- 20
 chr.to.int$ -- 30
-cite$ -- 21
-duplicate$ -- 586
-empty$ -- 699
+cite$ -- 22
+duplicate$ -- 614
+empty$ -- 733
 format.name$ -- 20
-if$ -- 1579
+if$ -- 1647
 int.to.chr$ -- 0
-int.to.str$ -- 19
-missing$ -- 134
-newline$ -- 108
+int.to.str$ -- 20
+missing$ -- 140
+newline$ -- 113
 num.names$ -- 15
-pop$ -- 407
+pop$ -- 429
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 548
+skip$ -- 571
 stack$ -- 0
-substring$ -- 85
-swap$ -- 329
+substring$ -- 86
+swap$ -- 342
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 19
+type$ -- 20
 warning$ -- 2
 while$ -- 19
-width$ -- 21
-write$ -- 193
+width$ -- 22
+write$ -- 202
 (There were 2 warnings)

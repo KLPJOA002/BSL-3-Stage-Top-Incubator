@@ -25,9 +25,14 @@
 \contentsline {subsection}{\numberline {4.1.1}Design Version 1}{13}{subsection.4.1.1}%
 \contentsline {subsubsection}{Changes}{14}{section*.11}%
 \contentsline {subsection}{\numberline {4.1.2}Design Version 2}{14}{subsection.4.1.2}%
-\contentsline {subsubsection}{O-Ring}{16}{section*.14}%
-\contentsline {section}{\numberline {4.2}Final Conceptual Design}{16}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Discussion and Results}{17}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Conclusion}{18}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Recommendations}{18}{section.6.1}%
-\contentsline {chapter}{Bibliography}{19}{chapter*.15}%
+\contentsline {subsubsection}{O-Ring}{15}{section*.14}%
+\contentsline {subsubsection}{Base}{16}{section*.15}%
+\contentsline {subsubsection}{Lid}{17}{section*.16}%
+\contentsline {subsubsection}{Changes}{17}{section*.17}%
+\contentsline {section}{\numberline {4.2}Design Version 3}{17}{section.4.2}%
+\contentsline {subsubsection}{Base}{17}{section*.20}%
+\contentsline {subsubsection}{Lid}{18}{section*.21}%
+\contentsline {chapter}{\numberline {5}Discussion and Results}{19}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusion}{20}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Recommendations}{20}{section.6.1}%
+\contentsline {chapter}{Bibliography}{21}{chapter*.22}%
