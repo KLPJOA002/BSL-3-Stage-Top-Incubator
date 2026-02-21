@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.27)  19 FEB 2026 22:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.27)  21 FEB 2026 13:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1101,24 +1101,24 @@ Package: filemod-expmin 2011/09/19 v1.2 Get and compare file modification times
 )) (Main.aux)
 \openout1 = `Main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1180,12 +1180,12 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 14.
+Package hyperref Info: Link coloring ON on input line 15.
  (Main.out) (Main.out)
 \@outlinefile=\write4
 \openout4 = `Main.out'.
 
-Package csquotes Info: Making character " active on input line 14.
+Package csquotes Info: Making character " active on input line 15.
 
 (C:\Users\joabk\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tran
 slations-basic-dictionary-english.trsl
@@ -1193,17 +1193,17 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 14.
+or `english'. on input line 15.
 Package microtype Info: Patching varwidth to enable character protrusion.
 \MT@vwid@leftmargin=\dimen325
 \MT@vwid@rightmargin=\dimen326
-LaTeX Info: Redefining \microtypecontext on input line 14.
-Package microtype Info: Applying patch `item' on input line 14.
-Package microtype Info: Applying patch `toc' on input line 14.
-Package microtype Info: Applying patch `eqnum' on input line 14.
-Package microtype Info: Applying patch `footnote' on input line 14.
-Package microtype Info: Applying patch `verbatim' on input line 14.
-LaTeX Info: Redefining \microtypesetup on input line 14.
+LaTeX Info: Redefining \microtypecontext on input line 15.
+Package microtype Info: Applying patch `item' on input line 15.
+Package microtype Info: Applying patch `toc' on input line 15.
+Package microtype Info: Applying patch `eqnum' on input line 15.
+Package microtype Info: Applying patch `footnote' on input line 15.
+Package microtype Info: Applying patch `verbatim' on input line 15.
+LaTeX Info: Redefining \microtypesetup on input line 15.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1231,16 +1231,16 @@ Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \symgns@font=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/lmr/m/n --> TS1/lmr/b/n on input line 14.
-Package gensymb Info: Math companion symbols declared on input line 14.
-LaTeX Info: Redefining \degree on input line 14.
-LaTeX Info: Redefining \celsius on input line 14.
+(Font)                  TS1/lmr/m/n --> TS1/lmr/b/n on input line 15.
+Package gensymb Info: Math companion symbols declared on input line 15.
+LaTeX Info: Redefining \degree on input line 15.
+LaTeX Info: Redefining \celsius on input line 15.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 14.
-LaTeX Info: Redefining \ohm on input line 14.
-Package gensymb Info: Using \textohm for \ohm on input line 14.
-LaTeX Info: Redefining \micro on input line 14.
-Package gensymb Info: Using \textmu for \micro on input line 14.
+erthousand on input line 15.
+LaTeX Info: Redefining \ohm on input line 15.
+Package gensymb Info: Using \textohm for \ohm on input line 15.
+LaTeX Info: Redefining \micro on input line 15.
+Package gensymb Info: Using \textmu for \micro on input line 15.
 
 (FrontMatter/Title.tex
 <FrontMatter/UCT_logo.png, id=123, 1554.80875pt x 1578.89874pt>
@@ -1461,41 +1461,66 @@ Package pdftex.def Info: Figures/Design3_Assembly.jpg  used on input line 204.
 (pdftex.def)             Requested size: 217.66211pt x 108.92639pt.
 
 
-[17 <./Figures/Design3_Lid_Top.jpg> <./Figures/Design3_Lid_Bottom.jpg>])
-(Chapters/04Results.tex
+[17 <./Figures/Design3_Lid_Top.jpg> <./Figures/Design3_Lid_Bottom.jpg>]
+pdfTeX warning (ext1): too small image resolution ignored
+<Figures/3D_Printed_Prototype_Parts.jpg, id=375, 16381.2pt x 9214.425pt>
+File: Figures/3D_Printed_Prototype_Parts.jpg Graphic file (type jpg)
+<use Figures/3D_Printed_Prototype_Parts.jpg>
+Package pdftex.def Info: Figures/3D_Printed_Prototype_Parts.jpg  used on input 
+line 236.
+(pdftex.def)             Requested size: 290.22107pt x 163.23732pt.
+
 
 [18 <./Figures/Design3_Base.jpg> <./Figures/Design3_Assembly.jpg>]
+pdfTeX warning (ext1): too small image resolution ignored
+<Figures/3D_Printed_Prototype_Open.jpg, id=386, 16381.2pt x 9214.425pt>
+File: Figures/3D_Printed_Prototype_Open.jpg Graphic file (type jpg)
+<use Figures/3D_Printed_Prototype_Open.jpg>
+Package pdftex.def Info: Figures/3D_Printed_Prototype_Open.jpg  used on input l
+ine 243.
+(pdftex.def)             Requested size: 290.22107pt x 163.23732pt.
+<Figures/3D_Printed_Prototype_Assembled.jpg, id=387, 14567.42375pt x 9214.425pt
+>
+File: Figures/3D_Printed_Prototype_Assembled.jpg Graphic file (type jpg)
+<use Figures/3D_Printed_Prototype_Assembled.jpg>
+Package pdftex.def Info: Figures/3D_Printed_Prototype_Assembled.jpg  used on in
+put line 250.
+(pdftex.def)             Requested size: 338.58632pt x 214.13475pt.
+) (Chapters/04Results.tex
+
+[19 <./Figures/3D_Printed_Prototype_Parts.jpg> <./Figures/3D_Printed_Prototype_
+Open.jpg> <./Figures/3D_Printed_Prototype_Assembled.jpg>]
 Chapter 5.
 ) (Chapters/05Conclusion.tex
 
-[19
+[20
 
 ]
 Chapter 6.
 )
 
-[20
+[21
 
 ] (Main.bbl
 
-[21
+[22
 
 ])
 
-[22] (Main.aux)
+[23] (Main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
  ***********
 Package rerunfilecheck Info: File `Main.out' has not changed.
-(rerunfilecheck)             Checksum: 69EB9834838311F6724C5A308805801D;3729.
+(rerunfilecheck)             Checksum: 569719ADEA6B0D5D4FC910F5BC902091;3726.
  ) 
 Here is how much of TeX's memory you used:
- 36796 strings out of 468080
- 743064 string characters out of 5425771
- 1387484 words of memory out of 5000000
- 64687 multiletter control sequences out of 15000+600000
- 680907 words of font info for 145 fonts, out of 8000000 for 9000
+ 36846 strings out of 468080
+ 745024 string characters out of 5425771
+ 1387788 words of memory out of 5000000
+ 64729 multiletter control sequences out of 15000+600000
+ 680990 words of font info for 146 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  95i,16n,93p,2577b,1337s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pf
@@ -1507,9 +1532,9 @@ b><C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb
 C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C
 :/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C
 :/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Main.pdf (24 pages, 3977530 bytes).
+Output written on Main.pdf (25 pages, 59605090 bytes).
 PDF statistics:
- 482 PDF objects out of 1000 (max. 8388607)
- 99 named destinations out of 1000 (max. 500000)
- 35132 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 509 PDF objects out of 1000 (max. 8388607)
+ 105 named destinations out of 1000 (max. 500000)
+ 35147 words of extra memory for PDF output out of 35830 (max. 10000000)
 

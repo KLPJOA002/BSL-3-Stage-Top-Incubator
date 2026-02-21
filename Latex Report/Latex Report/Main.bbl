@@ -141,4 +141,10 @@ Understanding {{O-Ring Squeeze}}, {{Stretch}} \& {{Compression}} - {{Marco
   \url{https://www.parker.com/content/dam/Parker-com/Literature/O-Ring-Division-Literature/ORD-5700.pdf}
 \BIBentrySTDinterwordspacing
 
+\bibitem{IngressProtectionIP}
+\BIBentryALTinterwordspacing
+Ingress {{Protection}} ({{IP}}) ratings. [Online]. Available:
+  \url{https://www.iec.ch/ip-ratings}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}
