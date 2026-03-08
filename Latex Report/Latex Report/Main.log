@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.27)  21 FEB 2026 13:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.27)  8 MAR 2026 22:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1335,95 +1335,96 @@ Chapter 2.
 ]
 
 [3]
-<Figures/Ibidi_Humidity_Control_Diagram.jpg, id=200, 633.86812pt x 282.30469pt>
+<Figures/Ibidi_Humidity_Control_Diagram.jpg, id=202, 633.86812pt x 282.30469pt>
 
 File: Figures/Ibidi_Humidity_Control_Diagram.jpg Graphic file (type jpg)
 <use Figures/Ibidi_Humidity_Control_Diagram.jpg>
 Package pdftex.def Info: Figures/Ibidi_Humidity_Control_Diagram.jpg  used on in
-put line 43.
+put line 46.
 (pdftex.def)             Requested size: 241.84843pt x 107.71196pt.
 
 
 [4 <./Figures/Ibidi_Humidity_Control_Diagram.jpg>]
 
 [5]
-<Figures/Ibidi_Gasflow_Diagram.jpg, id=234, 1070.49937pt x 418.56375pt>
+<Figures/Ibidi_Gasflow_Diagram.jpg, id=235, 1070.49937pt x 418.56375pt>
 File: Figures/Ibidi_Gasflow_Diagram.jpg Graphic file (type jpg)
 <use Figures/Ibidi_Gasflow_Diagram.jpg>
 Package pdftex.def Info: Figures/Ibidi_Gasflow_Diagram.jpg  used on input line 
-102.
+106.
 (pdftex.def)             Requested size: 290.22107pt x 113.47356pt.
 ) (Chapters/02FeasibilityAnalysis.tex
 
 [6{C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C
-:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc} <
-./Figures/Ibidi_Gasflow_Diagram.jpg>]
+:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
+
+[7 <./Figures/Ibidi_Gasflow_Diagram.jpg>]
 Chapter 3.
 
 
-[7
+[8
 
 ]
 
-[8]
-
 [9]
 
-[10] Excluding 'comment' comment.
+[10]
+
+[11] Excluding 'comment' comment.
+
+[12]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 184.
 
-
-
-[11] Excluding 'comment' comment. Excluding 'comment' comment.)
+Excluding 'comment' comment. Excluding 'comment' comment.)
 (Chapters/03Design.tex
 
-[12]
+[13]
 Chapter 4.
-<Figures/Design1_Base_Annotated.jpg, id=293, 820.56563pt x 533.74406pt>
+<Figures/Design1_Base_Annotated.jpg, id=299, 820.56563pt x 533.74406pt>
 File: Figures/Design1_Base_Annotated.jpg Graphic file (type jpg)
 <use Figures/Design1_Base_Annotated.jpg>
 Package pdftex.def Info: Figures/Design1_Base_Annotated.jpg  used on input line
  23.
 (pdftex.def)             Requested size: 217.66211pt x 141.57996pt.
-<Figures/Design1_Base2.jpg, id=294, 764.10469pt x 560.0925pt>
+<Figures/Design1_Base2.jpg, id=300, 764.10469pt x 560.0925pt>
 File: Figures/Design1_Base2.jpg Graphic file (type jpg)
 <use Figures/Design1_Base2.jpg>
 Package pdftex.def Info: Figures/Design1_Base2.jpg  used on input line 30.
 (pdftex.def)             Requested size: 217.66211pt x 159.54256pt.
-<Figures/Design1_Lid.jpg, id=295, 872.50969pt x 523.9575pt>
+<Figures/Design1_Lid.jpg, id=301, 872.50969pt x 523.9575pt>
 File: Figures/Design1_Lid.jpg Graphic file (type jpg)
 <use Figures/Design1_Lid.jpg>
 Package pdftex.def Info: Figures/Design1_Lid.jpg  used on input line 42.
 (pdftex.def)             Requested size: 217.66211pt x 130.70923pt.
-<Figures/Design1_Lid2.jpg, id=296, 876.27374pt x 560.8453pt>
+<Figures/Design1_Lid2.jpg, id=302, 876.27374pt x 560.8453pt>
 File: Figures/Design1_Lid2.jpg Graphic file (type jpg)
 <use Figures/Design1_Lid2.jpg>
 Package pdftex.def Info: Figures/Design1_Lid2.jpg  used on input line 49.
 (pdftex.def)             Requested size: 217.66211pt x 139.30385pt.
 
 
-[13
+[14
 
  <./Figures/Design1_Base_Annotated.jpg> <./Figures/Design1_Base2.jpg>]
-<Figures/Design2_Base.jpg, id=307, 796.47563pt x 535.2497pt>
+<Figures/Design2_Base.jpg, id=313, 796.47563pt x 535.2497pt>
 File: Figures/Design2_Base.jpg Graphic file (type jpg)
 <use Figures/Design2_Base.jpg>
 Package pdftex.def Info: Figures/Design2_Base.jpg  used on input line 81.
 (pdftex.def)             Requested size: 217.66211pt x 146.26714pt.
-<Figures/Design2_Lid_Annotated.jpg, id=308, 971.12813pt x 605.26125pt>
+<Figures/Design2_Lid_Annotated.jpg, id=314, 971.12813pt x 605.26125pt>
 File: Figures/Design2_Lid_Annotated.jpg Graphic file (type jpg)
 <use Figures/Design2_Lid_Annotated.jpg>
 Package pdftex.def Info: Figures/Design2_Lid_Annotated.jpg  used on input line 
 88.
 (pdftex.def)             Requested size: 217.66211pt x 135.65147pt.
-<Figures/Design2_Assembly.jpg, id=309, 676.02562pt x 286.82156pt>
+<Figures/Design2_Assembly.jpg, id=315, 676.02562pt x 286.82156pt>
 File: Figures/Design2_Assembly.jpg Graphic file (type jpg)
 <use Figures/Design2_Assembly.jpg>
 Package pdftex.def Info: Figures/Design2_Assembly.jpg  used on input line 100.
 (pdftex.def)             Requested size: 152.36281pt x 64.64146pt.
-<Figures/Design2_Mating_Feature.jpg, id=310, 663.98062pt x 517.935pt>
+<Figures/Design2_Mating_Feature.jpg, id=316, 663.98062pt x 517.935pt>
 File: Figures/Design2_Mating_Feature.jpg Graphic file (type jpg)
 <use Figures/Design2_Mating_Feature.jpg>
 Package pdftex.def Info: Figures/Design2_Mating_Feature.jpg  used on input line
@@ -1431,39 +1432,39 @@ Package pdftex.def Info: Figures/Design2_Mating_Feature.jpg  used on input line
 (pdftex.def)             Requested size: 152.36281pt x 118.84593pt.
 
 
-[14 <./Figures/Design1_Lid.jpg> <./Figures/Design1_Lid2.jpg>]
+[15 <./Figures/Design1_Lid.jpg> <./Figures/Design1_Lid2.jpg>]
 
-[15{C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.e
+[16{C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.e
 nc} <./Figures/Design2_Base.jpg> <./Figures/Design2_Lid_Annotated.jpg> <./Figur
 es/Design2_Assembly.jpg> <./Figures/Design2_Mating_Feature.jpg>]
 
-[16]
-<Figures/Design3_Lid_Top.jpg, id=352, 909.3975pt x 522.45187pt>
+[17]
+<Figures/Design3_Lid_Top.jpg, id=359, 909.3975pt x 522.45187pt>
 File: Figures/Design3_Lid_Top.jpg Graphic file (type jpg)
 <use Figures/Design3_Lid_Top.jpg>
 Package pdftex.def Info: Figures/Design3_Lid_Top.jpg  used on input line 178.
 (pdftex.def)             Requested size: 217.66211pt x 125.0482pt.
-<Figures/Design3_Lid_Bottom.jpg, id=353, 910.15031pt x 523.9575pt>
+<Figures/Design3_Lid_Bottom.jpg, id=360, 910.15031pt x 523.9575pt>
 File: Figures/Design3_Lid_Bottom.jpg Graphic file (type jpg)
 <use Figures/Design3_Lid_Bottom.jpg>
 Package pdftex.def Info: Figures/Design3_Lid_Bottom.jpg  used on input line 185
 .
 (pdftex.def)             Requested size: 217.66211pt x 125.30464pt.
-<Figures/Design3_Base.jpg, id=354, 911.65594pt x 603.75563pt>
+<Figures/Design3_Base.jpg, id=361, 911.65594pt x 603.75563pt>
 File: Figures/Design3_Base.jpg Graphic file (type jpg)
 <use Figures/Design3_Base.jpg>
 Package pdftex.def Info: Figures/Design3_Base.jpg  used on input line 197.
 (pdftex.def)             Requested size: 217.66211pt x 144.14888pt.
-<Figures/Design3_Assembly.jpg, id=355, 858.95906pt x 429.85594pt>
+<Figures/Design3_Assembly.jpg, id=362, 858.95906pt x 429.85594pt>
 File: Figures/Design3_Assembly.jpg Graphic file (type jpg)
 <use Figures/Design3_Assembly.jpg>
 Package pdftex.def Info: Figures/Design3_Assembly.jpg  used on input line 204.
 (pdftex.def)             Requested size: 217.66211pt x 108.92639pt.
 
 
-[17 <./Figures/Design3_Lid_Top.jpg> <./Figures/Design3_Lid_Bottom.jpg>]
+[18 <./Figures/Design3_Lid_Top.jpg> <./Figures/Design3_Lid_Bottom.jpg>]
 pdfTeX warning (ext1): too small image resolution ignored
-<Figures/3D_Printed_Prototype_Parts.jpg, id=375, 16381.2pt x 9214.425pt>
+<Figures/3D_Printed_Prototype_Parts.jpg, id=381, 16381.2pt x 9214.425pt>
 File: Figures/3D_Printed_Prototype_Parts.jpg Graphic file (type jpg)
 <use Figures/3D_Printed_Prototype_Parts.jpg>
 Package pdftex.def Info: Figures/3D_Printed_Prototype_Parts.jpg  used on input 
@@ -1471,15 +1472,15 @@ line 236.
 (pdftex.def)             Requested size: 290.22107pt x 163.23732pt.
 
 
-[18 <./Figures/Design3_Base.jpg> <./Figures/Design3_Assembly.jpg>]
+[19 <./Figures/Design3_Base.jpg> <./Figures/Design3_Assembly.jpg>]
 pdfTeX warning (ext1): too small image resolution ignored
-<Figures/3D_Printed_Prototype_Open.jpg, id=386, 16381.2pt x 9214.425pt>
+<Figures/3D_Printed_Prototype_Open.jpg, id=392, 16381.2pt x 9214.425pt>
 File: Figures/3D_Printed_Prototype_Open.jpg Graphic file (type jpg)
 <use Figures/3D_Printed_Prototype_Open.jpg>
 Package pdftex.def Info: Figures/3D_Printed_Prototype_Open.jpg  used on input l
 ine 243.
 (pdftex.def)             Requested size: 290.22107pt x 163.23732pt.
-<Figures/3D_Printed_Prototype_Assembled.jpg, id=387, 14567.42375pt x 9214.425pt
+<Figures/3D_Printed_Prototype_Assembled.jpg, id=393, 14567.42375pt x 9214.425pt
 >
 File: Figures/3D_Printed_Prototype_Assembled.jpg Graphic file (type jpg)
 <use Figures/3D_Printed_Prototype_Assembled.jpg>
@@ -1488,37 +1489,37 @@ put line 250.
 (pdftex.def)             Requested size: 338.58632pt x 214.13475pt.
 ) (Chapters/04Results.tex
 
-[19 <./Figures/3D_Printed_Prototype_Parts.jpg> <./Figures/3D_Printed_Prototype_
+[20 <./Figures/3D_Printed_Prototype_Parts.jpg> <./Figures/3D_Printed_Prototype_
 Open.jpg> <./Figures/3D_Printed_Prototype_Assembled.jpg>]
 Chapter 5.
 ) (Chapters/05Conclusion.tex
 
-[20
+[21
 
 ]
 Chapter 6.
 )
 
-[21
+[22
 
 ] (Main.bbl
 
-[22
+[23
 
 ])
 
-[23] (Main.aux)
+[24] (Main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
  ***********
 Package rerunfilecheck Info: File `Main.out' has not changed.
-(rerunfilecheck)             Checksum: 569719ADEA6B0D5D4FC910F5BC902091;3726.
+(rerunfilecheck)             Checksum: 28AE054A23D18801E45556BECE717380;3729.
  ) 
 Here is how much of TeX's memory you used:
- 36846 strings out of 468080
- 745024 string characters out of 5425771
- 1387788 words of memory out of 5000000
+ 36847 strings out of 468080
+ 745031 string characters out of 5425771
+ 1387789 words of memory out of 5000000
  64729 multiletter control sequences out of 15000+600000
  680990 words of font info for 146 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1532,9 +1533,9 @@ b><C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb
 C:/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C
 :/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C
 :/Users/joabk/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Main.pdf (25 pages, 59605090 bytes).
+Output written on Main.pdf (26 pages, 59607404 bytes).
 PDF statistics:
- 509 PDF objects out of 1000 (max. 8388607)
- 105 named destinations out of 1000 (max. 500000)
+ 515 PDF objects out of 1000 (max. 8388607)
+ 106 named destinations out of 1000 (max. 500000)
  35147 words of extra memory for PDF output out of 35830 (max. 10000000)
 
